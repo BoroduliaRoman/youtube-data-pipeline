@@ -8,7 +8,8 @@ load_dotenv(dotenv_path="./.env")
 
 API_KEY = os.getenv("API_KEY")
 
-CHANEL_HANDLE = "DataWithBaraa"
+CHANNEL_HANDLE = "DataWithBaraa"
+max_results = 50
 
 def get_playlist_id():
     try:
@@ -16,7 +17,7 @@ def get_playlist_id():
 
         params = {
             "part": 'contentDetails',
-            "forHandle": CHANEL_HANDLE,
+            "forHandle": CHANNEL_HANDLE,
             "key": API_KEY,
         }
         response = requests.get(url, params=params)
@@ -32,5 +33,40 @@ def get_playlist_id():
     except requests.exceptions.RequestException as e:
         raise e
 
+def get_video_ids(playlist_id):
+    video_ids = []
+    page_token = None
+    base_url = f'https://youtube.googleapis.com/youtube/v3/playlistItems'
+    params = {
+        "part": "contentDetails",
+        "maxResults": max_results,
+        "playlistId": playlist_id,
+        "key": API_KEY,
+    }
+
+    try:
+        while True:
+            url = base_url
+            if page_token:
+                params['pageToken'] = page_token
+
+            response = requests.get(url, params=params)
+            response.raise_for_status()
+            data = response.json()
+
+            for item in data.get('items', []):
+                video_id = item['contentDetails']['videoId']
+                video_ids.append(video_id)
+
+            page_token = data.get('nextPageToken')
+            if not page_token:
+                break
+
+        return video_ids
+
+    except requests.exceptions.RequestException as e:
+        raise e
+
 if __name__ == "__main__":
-    get_playlist_id()
+    playlist_id = get_playlist_id()
+    get_video_ids(playlist_id)
