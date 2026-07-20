@@ -1,0 +1,4259 @@
+[
+    {
+        "video_id": "pQSMbRA3O6g",
+        "title": "Data Modeling in Power BI Full Course for Beginners (5 Hours) – From Zero to Hero",
+        "publishedAt": "2026-07-15T12:40:11Z",
+        "duration": "PT5H8M59S",
+        "viewCount": "22310",
+        "likeCount": "1245",
+        "commentCount": "253"
+    },
+    {
+        "video_id": "w2bZh0fz2pk",
+        "title": "I Tested DataCamp's AI Engineer Course for 7 Days: Honest Review",
+        "publishedAt": "2026-07-09T13:15:15Z",
+        "duration": "PT18M14S",
+        "viewCount": "13336",
+        "likeCount": "515",
+        "commentCount": "52"
+    },
+    {
+        "video_id": "0A2k62YEbfI",
+        "title": "Power BI Data Modeling Portfolio Project End-to-End (Nightmare Data Model)",
+        "publishedAt": "2026-07-07T15:00:06Z",
+        "duration": "PT2H28M52S",
+        "viewCount": "38949",
+        "likeCount": "1726",
+        "commentCount": "341"
+    },
+    {
+        "video_id": "lcHuKewJRjU",
+        "title": "Databricks AI Genie Code for Data Analytics (DataCamp Live)",
+        "publishedAt": "2026-07-02T12:19:50Z",
+        "duration": "PT44M35S",
+        "viewCount": "5091",
+        "likeCount": "163",
+        "commentCount": "21"
+    },
+    {
+        "video_id": "GJH2fax3990",
+        "title": "What is an AI Agent? How I Automated My Daily Task With AI (Visual Explanation)",
+        "publishedAt": "2026-07-01T16:38:08Z",
+        "duration": "PT27M2S",
+        "viewCount": "19224",
+        "likeCount": "937",
+        "commentCount": "108"
+    },
+    {
+        "video_id": "TYnXqVrVz8k",
+        "title": "Pandas vs PySpark vs Polars: The DataFrame Explained Visually",
+        "publishedAt": "2026-06-25T16:56:53Z",
+        "duration": "PT18M22S",
+        "viewCount": "13299",
+        "likeCount": "662",
+        "commentCount": "67"
+    },
+    {
+        "video_id": "BPvk339VqJg",
+        "title": "Excel vs Power BI vs SQL vs Python vs AI: What Should You Actually Learn?",
+        "publishedAt": "2026-06-23T12:35:21Z",
+        "duration": "PT28M16S",
+        "viewCount": "19148",
+        "likeCount": "1023",
+        "commentCount": "78"
+    },
+    {
+        "video_id": "9_vGzVUBQdY",
+        "title": "Power BI Row Level Security (RLS) Made Easy | #Power BI Course 25",
+        "publishedAt": "2026-06-22T14:00:06Z",
+        "duration": "PT31M48S",
+        "viewCount": "8834",
+        "likeCount": "472",
+        "commentCount": "82"
+    },
+    {
+        "video_id": "fqrLYhkF39A",
+        "title": "How to Connect Two Fact Tables (Many-to-Many) | #Power BI Course 24",
+        "publishedAt": "2026-06-18T12:19:34Z",
+        "duration": "PT27M34S",
+        "viewCount": "6224",
+        "likeCount": "380",
+        "commentCount": "44"
+    },
+    {
+        "video_id": "FvFvjUqu8Gs",
+        "title": "Data Modeling  Grain Explained | #Power BI Course 23",
+        "publishedAt": "2026-06-16T12:49:58Z",
+        "duration": "PT7M3S",
+        "viewCount": "5496",
+        "likeCount": "290",
+        "commentCount": "37"
+    },
+    {
+        "video_id": "-LGTktDqd2Q",
+        "title": "The Best SQL Certificate?",
+        "publishedAt": "2026-06-12T12:40:48Z",
+        "duration": "PT57S",
+        "viewCount": "23919",
+        "likeCount": "981",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "uF3uqZW9wVc",
+        "title": "Your Colleagues Are Not Your Friends",
+        "publishedAt": "2026-06-12T12:00:16Z",
+        "duration": "PT30S",
+        "viewCount": "41097",
+        "likeCount": "1785",
+        "commentCount": "49"
+    },
+    {
+        "video_id": "FbMVYHYM-oE",
+        "title": "Power BI Role-Playing Dimension (USERELATIONSHIP) | #Power BI Course 22",
+        "publishedAt": "2026-06-11T12:49:41Z",
+        "duration": "PT15M39S",
+        "viewCount": "4947",
+        "likeCount": "257",
+        "commentCount": "34"
+    },
+    {
+        "video_id": "jUa2edBhGPA",
+        "title": "Junk Dimension Explained (Clean Up Your Fact Table) | #Power BI Course 21",
+        "publishedAt": "2026-06-10T13:22:15Z",
+        "duration": "PT12M23S",
+        "viewCount": "4923",
+        "likeCount": "265",
+        "commentCount": "37"
+    },
+    {
+        "video_id": "FTYeKznXBpo",
+        "title": "How to Handle One-to-One Dimensions? | #Power BI Course 20",
+        "publishedAt": "2026-06-09T12:28:09Z",
+        "duration": "PT5M7S",
+        "viewCount": "4320",
+        "likeCount": "196",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "XZoj-VCc3fM",
+        "title": "Power BI Ambiguous Explained (Active vs Inactive Relationships) | #Power BI Course 19",
+        "publishedAt": "2026-06-05T12:15:14Z",
+        "duration": "PT6M33S",
+        "viewCount": "5259",
+        "likeCount": "229",
+        "commentCount": "28"
+    },
+    {
+        "video_id": "8i5LgqoJJS8",
+        "title": "Don’t Burn Out. Don’t Check Out",
+        "publishedAt": "2026-06-05T12:00:02Z",
+        "duration": "PT46S",
+        "viewCount": "16539",
+        "likeCount": "796",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "Eazu28FSKEU",
+        "title": "How to Build a Clean Star Schema in Power BI  | #Power BI Course 18",
+        "publishedAt": "2026-06-04T13:11:33Z",
+        "duration": "PT18M5S",
+        "viewCount": "7371",
+        "likeCount": "334",
+        "commentCount": "40"
+    },
+    {
+        "video_id": "-0GctLQhcjY",
+        "title": "Power BI Relationships Explained (Cardinality, Filter Direction) | #Power BI Course 17",
+        "publishedAt": "2026-06-02T12:08:55Z",
+        "duration": "PT11M10S",
+        "viewCount": "10678",
+        "likeCount": "457",
+        "commentCount": "36"
+    },
+    {
+        "video_id": "E_oR6VcSyk4",
+        "title": "5-Day AI Challenge for Data Engineering",
+        "publishedAt": "2026-06-02T11:28:50Z",
+        "duration": "PT57S",
+        "viewCount": "21001",
+        "likeCount": "910",
+        "commentCount": "23"
+    },
+    {
+        "video_id": "EKKOOOynDMA",
+        "title": "Play the Long Game",
+        "publishedAt": "2026-05-29T12:00:07Z",
+        "duration": "PT53S",
+        "viewCount": "7691",
+        "likeCount": "282",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "VCeQcIlJscE",
+        "title": "AI Engineering for Data Engineers (Closer Than You Think)",
+        "publishedAt": "2026-05-28T13:19:33Z",
+        "duration": "PT12M4S",
+        "viewCount": "22310",
+        "likeCount": "1073",
+        "commentCount": "81"
+    },
+    {
+        "video_id": "TtxfKIe0HuQ",
+        "title": "BI Data Modeling Explained: Star Schema, Snowflake & Galaxy | #Power BI Course 16",
+        "publishedAt": "2026-05-26T12:06:36Z",
+        "duration": "PT15M10S",
+        "viewCount": "31383",
+        "likeCount": "1314",
+        "commentCount": "95"
+    },
+    {
+        "video_id": "zUcXzD4E2JM",
+        "title": "The Money Model I Wish I Knew",
+        "publishedAt": "2026-05-22T12:01:25Z",
+        "duration": "PT1M2S",
+        "viewCount": "13077",
+        "likeCount": "770",
+        "commentCount": "13"
+    },
+    {
+        "video_id": "uqG8Kp3t9B0",
+        "title": "This Should Be Taught in School",
+        "publishedAt": "2026-05-22T12:01:20Z",
+        "duration": "PT50S",
+        "viewCount": "16567",
+        "likeCount": "1119",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "3_zUFQS52PY",
+        "title": "How to learn Python for AI",
+        "publishedAt": "2026-05-21T12:35:37Z",
+        "duration": "PT17M35S",
+        "viewCount": "19348",
+        "likeCount": "837",
+        "commentCount": "56"
+    },
+    {
+        "video_id": "my3YXrqQbPI",
+        "title": "Why Power BI Projects Fail Without Data Modeling | #Power BI Course 15",
+        "publishedAt": "2026-05-19T12:21:53Z",
+        "duration": "PT12M10S",
+        "viewCount": "13563",
+        "likeCount": "640",
+        "commentCount": "63"
+    },
+    {
+        "video_id": "s5wHo_kEFss",
+        "title": "How NOT TO learn SQL: Avoid these 4 mistakes",
+        "publishedAt": "2026-05-14T12:38:17Z",
+        "duration": "PT11M9S",
+        "viewCount": "19241",
+        "likeCount": "869",
+        "commentCount": "91"
+    },
+    {
+        "video_id": "Sbu4R-Xa3b4",
+        "title": "Don't Expect the Modern Data Stack at Work",
+        "publishedAt": "2026-05-12T13:40:52Z",
+        "duration": "PT50S",
+        "viewCount": "19683",
+        "likeCount": "857",
+        "commentCount": "36"
+    },
+    {
+        "video_id": "ONFfVcWT-z0",
+        "title": "How I Structure My Day",
+        "publishedAt": "2026-05-08T12:00:43Z",
+        "duration": "PT54S",
+        "viewCount": "13844",
+        "likeCount": "616",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "Fe7aMdxdfWw",
+        "title": "AI Demos are nothing like Real Data Projects",
+        "publishedAt": "2026-05-07T12:46:02Z",
+        "duration": "PT52S",
+        "viewCount": "16605",
+        "likeCount": "604",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "kkKPD7khA54",
+        "title": "How I Would Learn SQL FAST as a Data Analyst (2026 Roadmap)",
+        "publishedAt": "2026-05-05T12:32:37Z",
+        "duration": "PT13M58S",
+        "viewCount": "26734",
+        "likeCount": "1373",
+        "commentCount": "103"
+    },
+    {
+        "video_id": "1ovu8HTwmsw",
+        "title": "This Simple Habit Changed My Life",
+        "publishedAt": "2026-05-01T12:00:08Z",
+        "duration": "PT54S",
+        "viewCount": "12020",
+        "likeCount": "716",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "PNPenl9rLus",
+        "title": "Power Query Masterclass for Power BI | Complete 2 Hour Tutorial",
+        "publishedAt": "2026-04-30T12:00:46Z",
+        "duration": "PT1H57M28S",
+        "viewCount": "23858",
+        "likeCount": "811",
+        "commentCount": "101"
+    },
+    {
+        "video_id": "X2qMq_j51Vw",
+        "title": "3 Levels of Real Learning",
+        "publishedAt": "2026-04-29T13:29:27Z",
+        "duration": "PT52S",
+        "viewCount": "20030",
+        "likeCount": "1107",
+        "commentCount": "32"
+    },
+    {
+        "video_id": "jova3i1u3xo",
+        "title": "How to Organize Power Query (Reference vs Duplicate) | #Power BI Course 14",
+        "publishedAt": "2026-04-28T12:09:59Z",
+        "duration": "PT11M46S",
+        "viewCount": "6741",
+        "likeCount": "327",
+        "commentCount": "31"
+    },
+    {
+        "video_id": "cCrpbIvSi2s",
+        "title": "Best SQL Certifications for Data Analysts and Data Engineers",
+        "publishedAt": "2026-04-27T12:03:01Z",
+        "duration": "PT10M29S",
+        "viewCount": "35249",
+        "likeCount": "1403",
+        "commentCount": "119"
+    },
+    {
+        "video_id": "bRxv1e-G9KE",
+        "title": "How I Improve Every Year",
+        "publishedAt": "2026-04-24T12:01:15Z",
+        "duration": "PT58S",
+        "viewCount": "17117",
+        "likeCount": "1026",
+        "commentCount": "21"
+    },
+    {
+        "video_id": "oA90QLr_PsM",
+        "title": "What Are Databricks Notebooks? (Complete Beginner Guide)",
+        "publishedAt": "2026-04-23T12:01:24Z",
+        "duration": "PT11M",
+        "viewCount": "12810",
+        "likeCount": "475",
+        "commentCount": "41"
+    },
+    {
+        "video_id": "zaFFDLgIUsE",
+        "title": "Garbage IN Garbage OUT, even for AI",
+        "publishedAt": "2026-04-22T12:15:55Z",
+        "duration": "PT47S",
+        "viewCount": "20045",
+        "likeCount": "965",
+        "commentCount": "13"
+    },
+    {
+        "video_id": "OdRIMzknQcY",
+        "title": "What does a Data Engineer Do All Day? (Real Work Explained)",
+        "publishedAt": "2026-04-21T12:00:44Z",
+        "duration": "PT12M50S",
+        "viewCount": "22036",
+        "likeCount": "1019",
+        "commentCount": "97"
+    },
+    {
+        "video_id": "74nuYgMO5rk",
+        "title": "Forgive Those People and Move On",
+        "publishedAt": "2026-04-17T12:00:25Z",
+        "duration": "PT56S",
+        "viewCount": "14514",
+        "likeCount": "879",
+        "commentCount": "34"
+    },
+    {
+        "video_id": "xWan9LY0mYQ",
+        "title": "Pivot vs Unpivot in Power Query (Visually Explained) | #Power BI Course 13",
+        "publishedAt": "2026-04-16T12:39:32Z",
+        "duration": "PT12M7S",
+        "viewCount": "9863",
+        "likeCount": "616",
+        "commentCount": "55"
+    },
+    {
+        "video_id": "SSSeRQPq_Xs",
+        "title": "Merge vs Append Tables in Power Query (Visually Explained) | #Power BI Course 12",
+        "publishedAt": "2026-04-14T12:15:11Z",
+        "duration": "PT31M44S",
+        "viewCount": "10198",
+        "likeCount": "440",
+        "commentCount": "40"
+    },
+    {
+        "video_id": "li1DNt0MY5g",
+        "title": "Handle Missing Values in Power Query (Visually Explained) | #Power BI Course 11",
+        "publishedAt": "2026-04-10T12:44:45Z",
+        "duration": "PT21M2S",
+        "viewCount": "9933",
+        "likeCount": "381",
+        "commentCount": "34"
+    },
+    {
+        "video_id": "Y5YdPd0X0qk",
+        "title": "This Is Your Longest Relationship",
+        "publishedAt": "2026-04-10T12:01:07Z",
+        "duration": "PT46S",
+        "viewCount": "15201",
+        "likeCount": "671",
+        "commentCount": "22"
+    },
+    {
+        "video_id": "fCzTkS5g6xQ",
+        "title": "Tools Don't Make You a Data Engineer",
+        "publishedAt": "2026-04-09T13:11:37Z",
+        "duration": "PT59S",
+        "viewCount": "23450",
+        "likeCount": "869",
+        "commentCount": "23"
+    },
+    {
+        "video_id": "3LYwWTQ-X_U",
+        "title": "My First Course on LinkedIn Learning",
+        "publishedAt": "2026-04-08T15:04:11Z",
+        "duration": "PT36S",
+        "viewCount": "26878",
+        "likeCount": "1026",
+        "commentCount": "31"
+    },
+    {
+        "video_id": "T0D6fSdfkO8",
+        "title": "Power Query Tutorial for Beginners (Step by Step) | #Power BI Course 10",
+        "publishedAt": "2026-04-07T12:51:33Z",
+        "duration": "PT41M8S",
+        "viewCount": "28249",
+        "likeCount": "1241",
+        "commentCount": "152"
+    },
+    {
+        "video_id": "rAIUSRdKQJ4",
+        "title": "It’s On You. Stop Waiting.",
+        "publishedAt": "2026-04-03T12:01:27Z",
+        "duration": "PT43S",
+        "viewCount": "17800",
+        "likeCount": "901",
+        "commentCount": "29"
+    },
+    {
+        "video_id": "WMGmC1uNCfk",
+        "title": "April Fools on LinkedIn Went Too Far 😅",
+        "publishedAt": "2026-04-02T13:59:49Z",
+        "duration": "PT31S",
+        "viewCount": "22274",
+        "likeCount": "991",
+        "commentCount": "55"
+    },
+    {
+        "video_id": "7Us482ItlpU",
+        "title": "Databricks Explained Visually in 60 Seconds",
+        "publishedAt": "2026-04-01T13:05:12Z",
+        "duration": "PT1M",
+        "viewCount": "11909",
+        "likeCount": "616",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "trJTgk8miw4",
+        "title": "Learn Databricks for FREE (Step-by-Step Guide)",
+        "publishedAt": "2026-03-31T12:11:03Z",
+        "duration": "PT24M56S",
+        "viewCount": "59055",
+        "likeCount": "1947",
+        "commentCount": "92"
+    },
+    {
+        "video_id": "BuhNUcNz-zo",
+        "title": "Be Careful What You Consume",
+        "publishedAt": "2026-03-27T13:01:31Z",
+        "duration": "PT51S",
+        "viewCount": "12229",
+        "likeCount": "769",
+        "commentCount": "45"
+    },
+    {
+        "video_id": "nKRwjXRs4mY",
+        "title": "What is Spark? (Visual Explanation)",
+        "publishedAt": "2026-03-26T13:14:57Z",
+        "duration": "PT11M59S",
+        "viewCount": "66295",
+        "likeCount": "3056",
+        "commentCount": "159"
+    },
+    {
+        "video_id": "e3KQ8ziMp2o",
+        "title": "Will AI Replace Data Jobs? (Data Engineers & Data Analysts)",
+        "publishedAt": "2026-03-24T13:00:25Z",
+        "duration": "PT18M31S",
+        "viewCount": "77580",
+        "likeCount": "2625",
+        "commentCount": "198"
+    },
+    {
+        "video_id": "DH-a01HcmxM",
+        "title": "Stop Learning Every Tool (Do This Instead)",
+        "publishedAt": "2026-03-23T14:14:11Z",
+        "duration": "PT58S",
+        "viewCount": "18271",
+        "likeCount": "599",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "SXQ3DnwJijY",
+        "title": "What If It’s Actually On You?",
+        "publishedAt": "2026-03-20T13:01:02Z",
+        "duration": "PT46S",
+        "viewCount": "12858",
+        "likeCount": "644",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "Vvv5FG0EF1U",
+        "title": "Real Data Engineering Stories (No One Tells You This) | Baraa & Simon",
+        "publishedAt": "2026-03-19T14:49:02Z",
+        "duration": "PT1H42M56S",
+        "viewCount": "8584",
+        "likeCount": "320",
+        "commentCount": "30"
+    },
+    {
+        "video_id": "t6Ixpk__u9s",
+        "title": "PySpark Explained Visually (Python Meets Big Data)",
+        "publishedAt": "2026-03-18T15:09:01Z",
+        "duration": "PT56S",
+        "viewCount": "18421",
+        "likeCount": "651",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "8vSdjx-QLIs",
+        "title": "How NOT to Become a Data Engineer in 2026 (Avoid These Mistakes)",
+        "publishedAt": "2026-03-17T14:36:02Z",
+        "duration": "PT12M52S",
+        "viewCount": "62235",
+        "likeCount": "2571",
+        "commentCount": "144"
+    },
+    {
+        "video_id": "a3zgeQiSH_w",
+        "title": "My Life. My Rules.",
+        "publishedAt": "2026-03-13T13:00:00Z",
+        "duration": "PT47S",
+        "viewCount": "14967",
+        "likeCount": "756",
+        "commentCount": "21"
+    },
+    {
+        "video_id": "jJb1QATIwuk",
+        "title": "What is Apache Spark? Explained under 60 Seconds",
+        "publishedAt": "2026-03-12T13:08:58Z",
+        "duration": "PT52S",
+        "viewCount": "12308",
+        "likeCount": "250",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "IJO6FAnJ9fw",
+        "title": "Hadoop and MapReduce Explained Visually",
+        "publishedAt": "2026-03-11T12:42:37Z",
+        "duration": "PT1M",
+        "viewCount": "17615",
+        "likeCount": "475",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "X5zTCgPN_D4",
+        "title": "What is Databricks? The Story Behind the Modern Data Platform (Visual Explanation)",
+        "publishedAt": "2026-03-10T13:00:07Z",
+        "duration": "PT15M18S",
+        "viewCount": "246736",
+        "likeCount": "8734",
+        "commentCount": "370"
+    },
+    {
+        "video_id": "BzzMIU6E2P4",
+        "title": "Stop Comparing Yourself. It’s Hurting You.",
+        "publishedAt": "2026-03-06T13:00:26Z",
+        "duration": "PT39S",
+        "viewCount": "12974",
+        "likeCount": "860",
+        "commentCount": "24"
+    },
+    {
+        "video_id": "NcPHZnBS4Bo",
+        "title": "Power BI Projects: Why PBIP Files Change Everything (Explained Visually) | #Power BI Course 9",
+        "publishedAt": "2026-03-03T13:22:39Z",
+        "duration": "PT17M53S",
+        "viewCount": "32995",
+        "likeCount": "1256",
+        "commentCount": "105"
+    },
+    {
+        "video_id": "UAZQwcbo1FE",
+        "title": "This Is Why I Stay Quiet",
+        "publishedAt": "2026-02-27T13:01:02Z",
+        "duration": "PT44S",
+        "viewCount": "15247",
+        "likeCount": "942",
+        "commentCount": "22"
+    },
+    {
+        "video_id": "yxYaRKEghF4",
+        "title": "Data analyst vs data engineer in 2026 (Which Career Should You Choose?)",
+        "publishedAt": "2026-02-26T13:01:19Z",
+        "duration": "PT13M46S",
+        "viewCount": "46476",
+        "likeCount": "1997",
+        "commentCount": "141"
+    },
+    {
+        "video_id": "AsDMGj-8GCU",
+        "title": "13-Hour Python Course is LIVE 🚀",
+        "publishedAt": "2026-02-24T17:45:27Z",
+        "duration": "PT39S",
+        "viewCount": "13562",
+        "likeCount": "719",
+        "commentCount": "37"
+    },
+    {
+        "video_id": "Rq5gJVxz55Q",
+        "title": "Python Full Course for Beginners (13 Hours) – From Zero to Hero",
+        "publishedAt": "2026-02-24T13:00:07Z",
+        "duration": "PT13H2M53S",
+        "viewCount": "706465",
+        "likeCount": "16283",
+        "commentCount": "1809"
+    },
+    {
+        "video_id": "4R8m3wFjbxU",
+        "title": "300k THANK YOU❤️! 🔥Our Community Is On Fire🔥",
+        "publishedAt": "2026-02-20T16:45:24Z",
+        "duration": "PT40S",
+        "viewCount": "17480",
+        "likeCount": "1365",
+        "commentCount": "125"
+    },
+    {
+        "video_id": "QTDbjbZrREk",
+        "title": "I Almost Quit Because of This",
+        "publishedAt": "2026-02-20T13:00:55Z",
+        "duration": "PT34S",
+        "viewCount": "15913",
+        "likeCount": "661",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "kFJ8cIOTgSc",
+        "title": "Python Functions Full Guide (2 Hours) - Explained Visually",
+        "publishedAt": "2026-02-19T15:33:40Z",
+        "duration": "PT2H6M7S",
+        "viewCount": "36365",
+        "likeCount": "1182",
+        "commentCount": "104"
+    },
+    {
+        "video_id": "tGgR96lC-AU",
+        "title": "Data & Content Creation Talk Live with Baraa & Tim",
+        "publishedAt": "2026-02-18T17:26:31Z",
+        "duration": "PT1H42M40S",
+        "viewCount": "4599",
+        "likeCount": "217",
+        "commentCount": "18"
+    },
+    {
+        "video_id": "LYCBOk8b790",
+        "title": "I Tried 30 AI Engineering Courses: Here are the Best 5",
+        "publishedAt": "2026-02-17T13:01:39Z",
+        "duration": "PT10M26S",
+        "viewCount": "62058",
+        "likeCount": "1977",
+        "commentCount": "91"
+    },
+    {
+        "video_id": "QipWozUPnOU",
+        "title": "8 Python Function Habits That Make Your Code Clean and Professional | #Python Course 46",
+        "publishedAt": "2026-02-16T12:14:07Z",
+        "duration": "PT14M51S",
+        "viewCount": "12192",
+        "likeCount": "690",
+        "commentCount": "76"
+    },
+    {
+        "video_id": "RoAdS76d5wo",
+        "title": "The Biggest Lie About Success",
+        "publishedAt": "2026-02-13T13:00:46Z",
+        "duration": "PT51S",
+        "viewCount": "18388",
+        "likeCount": "1092",
+        "commentCount": "25"
+    },
+    {
+        "video_id": "aXjwdOaPrMg",
+        "title": "Python Functions Types You Must Know (Action, Transform, Validate, Orchestrate) | #Python Course 45",
+        "publishedAt": "2026-02-12T13:02:03Z",
+        "duration": "PT26M7S",
+        "viewCount": "12735",
+        "likeCount": "614",
+        "commentCount": "64"
+    },
+    {
+        "video_id": "RPuPP-wrbEo",
+        "title": "I'm 40. If You're In Your 20's or 30's, Watch This",
+        "publishedAt": "2026-02-10T13:00:07Z",
+        "duration": "PT28M29S",
+        "viewCount": "51122",
+        "likeCount": "3386",
+        "commentCount": "410"
+    },
+    {
+        "video_id": "QO-ursZbCtk",
+        "title": "This Is the Moment You Become a Senior",
+        "publishedAt": "2026-02-09T13:59:32Z",
+        "duration": "PT45S",
+        "viewCount": "10734",
+        "likeCount": "328",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "iVbkf4v0NAE",
+        "title": "Data Engineering Is Not Important Until This…",
+        "publishedAt": "2026-02-07T13:10:01Z",
+        "duration": "PT37S",
+        "viewCount": "26751",
+        "likeCount": "770",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "DZ2yBGzvlXk",
+        "title": "Python Return Vs Print() (Visual Explanation) | #Python Course 44",
+        "publishedAt": "2026-02-06T12:42:46Z",
+        "duration": "PT11M49S",
+        "viewCount": "8679",
+        "likeCount": "562",
+        "commentCount": "56"
+    },
+    {
+        "video_id": "A9j2V2SPq3g",
+        "title": "Python *Args and **Kwargs Finally Make Sense | #Python Course 43",
+        "publishedAt": "2026-02-05T13:46:13Z",
+        "duration": "PT8M12S",
+        "viewCount": "9661",
+        "likeCount": "656",
+        "commentCount": "40"
+    },
+    {
+        "video_id": "BoWXYHFvPLI",
+        "title": "Data Talk Live with Baraa & Simon",
+        "publishedAt": "2026-02-04T17:14:02Z",
+        "duration": "PT2H5M49S",
+        "viewCount": "9473",
+        "likeCount": "516",
+        "commentCount": "35"
+    },
+    {
+        "video_id": "fuqCGh06hRw",
+        "title": "Python Positional vs Keyword Arguments Explained | Default Parameters | #Python Course 42",
+        "publishedAt": "2026-02-03T13:41:54Z",
+        "duration": "PT12M15S",
+        "viewCount": "6526",
+        "likeCount": "422",
+        "commentCount": "35"
+    },
+    {
+        "video_id": "MRDWuxXs_9Y",
+        "title": "Power BI File Types Explained: PBIX vs PBIT (Explained Visually) | #Power BI Course 8",
+        "publishedAt": "2026-01-29T14:21:52Z",
+        "duration": "PT17M53S",
+        "viewCount": "13401",
+        "likeCount": "661",
+        "commentCount": "53"
+    },
+    {
+        "video_id": "3TxcPKu9ec4",
+        "title": "Python Parameters vs Global vs Local Variables (Visual Explanation) | #Python Course 41",
+        "publishedAt": "2026-01-28T13:37:02Z",
+        "duration": "PT10M47S",
+        "viewCount": "7048",
+        "likeCount": "504",
+        "commentCount": "35"
+    },
+    {
+        "video_id": "6MbN0MVaQ5Y",
+        "title": "How I’d Become Data Analyst in 2026 From Zero to Lead (Built by Expert)",
+        "publishedAt": "2026-01-27T12:50:18Z",
+        "duration": "PT26M20S",
+        "viewCount": "90752",
+        "likeCount": "3852",
+        "commentCount": "208"
+    },
+    {
+        "video_id": "ysoVpKxefzM",
+        "title": "Python Parameters vs Arguments (Explained Visually) | #Python Course 40",
+        "publishedAt": "2026-01-26T12:58:12Z",
+        "duration": "PT10M50S",
+        "viewCount": "9203",
+        "likeCount": "606",
+        "commentCount": "46"
+    },
+    {
+        "video_id": "o55yneAtUHQ",
+        "title": "Don't Become a Data Analyst!",
+        "publishedAt": "2026-01-23T12:40:55Z",
+        "duration": "PT1M",
+        "viewCount": "317964",
+        "likeCount": "9460",
+        "commentCount": "170"
+    },
+    {
+        "video_id": "Cr58jAj_YAc",
+        "title": "Install SQL Server & SSMS 2026 | Create Your First Database (Beginner Guide) | #SQL Course 3",
+        "publishedAt": "2026-01-21T15:26:21Z",
+        "duration": "PT20M34S",
+        "viewCount": "122936",
+        "likeCount": "2526",
+        "commentCount": "172"
+    },
+    {
+        "video_id": "1nVGaNbvuXg",
+        "title": "How I’d Learn Data Engineering in 2026 From Zero to Senior (Built by a Data Engineer)",
+        "publishedAt": "2026-01-20T13:08:02Z",
+        "duration": "PT32M59S",
+        "viewCount": "175666",
+        "likeCount": "6554",
+        "commentCount": "337"
+    },
+    {
+        "video_id": "ldBLOasG23w",
+        "title": "Databricks Live Bootcamp | Day2: Data Engineering",
+        "publishedAt": "2026-01-18T19:37:16Z",
+        "duration": "PT4H10M16S",
+        "viewCount": "75532",
+        "likeCount": "2744",
+        "commentCount": "163"
+    },
+    {
+        "video_id": "sxYcjDrMyNc",
+        "title": "Databricks Live Bootcamp | Day1: Introduction & Data Analytics",
+        "publishedAt": "2026-01-17T19:21:49Z",
+        "duration": "PT3H56M25S",
+        "viewCount": "155235",
+        "likeCount": "5379",
+        "commentCount": "233"
+    },
+    {
+        "video_id": "dSRSzXIJQRE",
+        "title": "Why You Should Become a Data Engineer",
+        "publishedAt": "2026-01-16T12:34:50Z",
+        "duration": "PT57S",
+        "viewCount": "48043",
+        "likeCount": "2242",
+        "commentCount": "37"
+    },
+    {
+        "video_id": "cwySwSDP6VM",
+        "title": "Don't Become a Data Engineer!",
+        "publishedAt": "2026-01-15T15:09:45Z",
+        "duration": "PT1M",
+        "viewCount": "115602",
+        "likeCount": "3877",
+        "commentCount": "70"
+    },
+    {
+        "video_id": "TSWDc87w3j4",
+        "title": "Power BI Data Connections Deep Dive | Import, DirectQuery, Live Explained",
+        "publishedAt": "2026-01-13T13:15:51Z",
+        "duration": "PT56M43S",
+        "viewCount": "8177",
+        "likeCount": "371",
+        "commentCount": "61"
+    },
+    {
+        "video_id": "o9ZkiKNa1eo",
+        "title": "FREE Databricks Bootcamp 2026 | Data Analytics & Data Engineering",
+        "publishedAt": "2026-01-09T13:49:01Z",
+        "duration": "PT59S",
+        "viewCount": "51585",
+        "likeCount": "2424",
+        "commentCount": "116"
+    },
+    {
+        "video_id": "FSYoWPXfJxc",
+        "title": "Python Functions Made Simple (Visual Explanation) | #Python Course 39",
+        "publishedAt": "2026-01-08T12:53:53Z",
+        "duration": "PT18M12S",
+        "viewCount": "20229",
+        "likeCount": "1058",
+        "commentCount": "103"
+    },
+    {
+        "video_id": "ROLhrYkUQhc",
+        "title": "How to Choose? Import vs DirectQuery vs Live Connection in Power BI | #PowerBI Course 7",
+        "publishedAt": "2026-01-06T13:13:14Z",
+        "duration": "PT3M17S",
+        "viewCount": "12283",
+        "likeCount": "589",
+        "commentCount": "40"
+    },
+    {
+        "video_id": "T8jfM5kAdwM",
+        "title": "Power BI LIVE Connection (Explained Visually) | #PowerBI Course 6",
+        "publishedAt": "2026-01-06T12:24:29Z",
+        "duration": "PT14M12S",
+        "viewCount": "15260",
+        "likeCount": "525",
+        "commentCount": "42"
+    },
+    {
+        "video_id": "J2rQTJby8XM",
+        "title": "The Data Movie | Data Literacy Explained Visually",
+        "publishedAt": "2026-01-05T12:44:10Z",
+        "duration": "PT1H55M43S",
+        "viewCount": "488045",
+        "likeCount": "20065",
+        "commentCount": "519"
+    },
+    {
+        "video_id": "GRo-HX_Ova8",
+        "title": "How to Learn Python for Data Engineers Fast (2026 Step-By-Step Guide)",
+        "publishedAt": "2025-12-30T13:21:57Z",
+        "duration": "PT16M56S",
+        "viewCount": "104098",
+        "likeCount": "4265",
+        "commentCount": "187"
+    },
+    {
+        "video_id": "qERiF30vW4g",
+        "title": "Power BI DirectQuery vs Import (How to Choose Correctly) | #PowerBI Course 5",
+        "publishedAt": "2025-12-29T13:44:27Z",
+        "duration": "PT12M7S",
+        "viewCount": "15722",
+        "likeCount": "602",
+        "commentCount": "53"
+    },
+    {
+        "video_id": "QR03oeguXF8",
+        "title": "Power BI Direct Query (Explained Visually) | #PowerBI Course 4",
+        "publishedAt": "2025-12-29T13:43:34Z",
+        "duration": "PT16M11S",
+        "viewCount": "20675",
+        "likeCount": "988",
+        "commentCount": "59"
+    },
+    {
+        "video_id": "zMIBOt9PgCk",
+        "title": "Peaceful Winter Hike in Germany #schwarzwald",
+        "publishedAt": "2025-12-25T14:49:15Z",
+        "duration": "PT22S",
+        "viewCount": "22531",
+        "likeCount": "1080",
+        "commentCount": "66"
+    },
+    {
+        "video_id": "MQTBBguOOYM",
+        "title": "Power BI Import Explained Simply (What Really Happens) | #PowerBI Course 3",
+        "publishedAt": "2025-12-25T13:49:21Z",
+        "duration": "PT11M37S",
+        "viewCount": "25060",
+        "likeCount": "755",
+        "commentCount": "78"
+    },
+    {
+        "video_id": "C9hO1kbSI98",
+        "title": "Tableau vs Power BI: Why Power BI Is Taking Over",
+        "publishedAt": "2025-12-22T13:55:26Z",
+        "duration": "PT5M16S",
+        "viewCount": "24356",
+        "likeCount": "847",
+        "commentCount": "88"
+    },
+    {
+        "video_id": "QEoIrlarNqA",
+        "title": "10 Big Updates! The next Courses 🎉",
+        "publishedAt": "2025-12-19T14:57:55Z",
+        "duration": "PT1M34S",
+        "viewCount": "49038",
+        "likeCount": "3243",
+        "commentCount": "195"
+    },
+    {
+        "video_id": "OdImMpu2pLc",
+        "title": "10 Big Changes: What’s Coming Next to Data With Baraa",
+        "publishedAt": "2025-12-19T13:57:15Z",
+        "duration": "PT2M22S",
+        "viewCount": "10560",
+        "likeCount": "1073",
+        "commentCount": "168"
+    },
+    {
+        "video_id": "ANOI9w4gCXg",
+        "title": "1 Month After Leaving My Job and Real Talk on Data Engineer vs Analyst vs Scientist",
+        "publishedAt": "2025-12-18T19:21:59Z",
+        "duration": "PT2H13M50S",
+        "viewCount": "15873",
+        "likeCount": "738",
+        "commentCount": "47"
+    },
+    {
+        "video_id": "h-zcj4DmqHk",
+        "title": "Python Data Structures: When to Use List, Tuple, Set, Dict | #Python Course 38",
+        "publishedAt": "2025-12-16T14:01:18Z",
+        "duration": "PT3M54S",
+        "viewCount": "12467",
+        "likeCount": "561",
+        "commentCount": "53"
+    },
+    {
+        "video_id": "rpsYzPv1HiQ",
+        "title": "Python Dictionaries (Visually Explained) | #Python Course 37",
+        "publishedAt": "2025-12-12T13:03:59Z",
+        "duration": "PT27M24S",
+        "viewCount": "20957",
+        "likeCount": "1011",
+        "commentCount": "81"
+    },
+    {
+        "video_id": "Sp9uMZv9cpQ",
+        "title": "Get a Data Analyst Job With No Degree or Experience FAST!",
+        "publishedAt": "2025-12-11T13:24:27Z",
+        "duration": "PT10M48S",
+        "viewCount": "43834",
+        "likeCount": "2754",
+        "commentCount": "146"
+    },
+    {
+        "video_id": "WdCltDhmRLo",
+        "title": "Learn Power BI FAST – Full Beginner Crash Course (1 Hour)",
+        "publishedAt": "2025-12-09T13:30:07Z",
+        "duration": "PT45M54S",
+        "viewCount": "213492",
+        "likeCount": "5687",
+        "commentCount": "410"
+    },
+    {
+        "video_id": "r-0tZED_9Nw",
+        "title": "What is AI Hugging Face?  (Explained Visually)",
+        "publishedAt": "2025-12-05T14:29:51Z",
+        "duration": "PT52S",
+        "viewCount": "31944",
+        "likeCount": "1076",
+        "commentCount": "19"
+    },
+    {
+        "video_id": "D5R9Iq3KaPI",
+        "title": "Python Sets (Visually Explained) | #Python Course 36",
+        "publishedAt": "2025-12-04T13:08:11Z",
+        "duration": "PT18M29S",
+        "viewCount": "12851",
+        "likeCount": "771",
+        "commentCount": "61"
+    },
+    {
+        "video_id": "ZFzCy9hxYPY",
+        "title": "Is Coursera Worth It? My Thoughts About IBM Data Engineering",
+        "publishedAt": "2025-12-02T13:46:59Z",
+        "duration": "PT11M30S",
+        "viewCount": "22968",
+        "likeCount": "872",
+        "commentCount": "99"
+    },
+    {
+        "video_id": "ZtPjOpx1hPs",
+        "title": "OpenAI APIs Explained Visually",
+        "publishedAt": "2025-11-28T13:03:01Z",
+        "duration": "PT29S",
+        "viewCount": "22902",
+        "likeCount": "571",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "KnYkedmRy2s",
+        "title": "How I Would Learn SQL FAST (If I Could Start Over)",
+        "publishedAt": "2025-11-27T13:03:48Z",
+        "duration": "PT12M35S",
+        "viewCount": "138302",
+        "likeCount": "6373",
+        "commentCount": "183"
+    },
+    {
+        "video_id": "TTkifjHCPWo",
+        "title": "Python Tuples (Visually Explained) | #Python Course 35",
+        "publishedAt": "2025-11-26T13:24:53Z",
+        "duration": "PT8M15S",
+        "viewCount": "12070",
+        "likeCount": "770",
+        "commentCount": "68"
+    },
+    {
+        "video_id": "PDXpM7IvXis",
+        "title": "What Is Power BI? The Full Story Visually Explained | #PowerBI Course 1",
+        "publishedAt": "2025-11-25T13:00:07Z",
+        "duration": "PT21M14S",
+        "viewCount": "137165",
+        "likeCount": "4181",
+        "commentCount": "383"
+    },
+    {
+        "video_id": "tI01Y6gW_9k",
+        "title": "AI Engineer: The Role Everyone Is Talking About",
+        "publishedAt": "2025-11-21T13:19:12Z",
+        "duration": "PT51S",
+        "viewCount": "21527",
+        "likeCount": "770",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "srBa31b6sng",
+        "title": "My New Website and Data Academy Are Finally Live",
+        "publishedAt": "2025-11-20T13:50:31Z",
+        "duration": "PT8M22S",
+        "viewCount": "11043",
+        "likeCount": "780",
+        "commentCount": "126"
+    },
+    {
+        "video_id": "ILrYwyPd1Dc",
+        "title": "How to Become an AI Engineer FAST (2026) | AI Engineering Roadmap Built by Expert",
+        "publishedAt": "2025-11-18T13:25:26Z",
+        "duration": "PT19M24S",
+        "viewCount": "165423",
+        "likeCount": "6130",
+        "commentCount": "254"
+    },
+    {
+        "video_id": "mK69Yoxrheo",
+        "title": "This Tiny Habit Changed Everything",
+        "publishedAt": "2025-11-14T14:16:56Z",
+        "duration": "PT20S",
+        "viewCount": "39560",
+        "likeCount": "1631",
+        "commentCount": "27"
+    },
+    {
+        "video_id": "cFryICDOXVI",
+        "title": "30 Python List Methods in 60 Seconds",
+        "publishedAt": "2025-11-13T13:27:42Z",
+        "duration": "PT1M",
+        "viewCount": "11746",
+        "likeCount": "419",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "c3FRTlncSWM",
+        "title": "30 Python List Operations in 5 Minutes | #Python Course 34",
+        "publishedAt": "2025-11-11T13:21:27Z",
+        "duration": "PT6M1S",
+        "viewCount": "14229",
+        "likeCount": "1032",
+        "commentCount": "94"
+    },
+    {
+        "video_id": "hOMMj1YNyZk",
+        "title": "My First Live Stream | Starting a New Chapter with You",
+        "publishedAt": "2025-11-06T17:45:00Z",
+        "duration": "PT1H15M22S",
+        "viewCount": "17924",
+        "likeCount": "1246",
+        "commentCount": "179"
+    },
+    {
+        "video_id": "6bHDQtVfsCM",
+        "title": "Python List Comprehension (Visually Explained) | The Cleanest Way to Code | #Python Course 33",
+        "publishedAt": "2025-11-04T13:00:12Z",
+        "duration": "PT9M44S",
+        "viewCount": "14776",
+        "likeCount": "829",
+        "commentCount": "81"
+    },
+    {
+        "video_id": "lx2_2IB-i2Y",
+        "title": "Thank You for 200K ❤️",
+        "publishedAt": "2025-10-31T13:04:46Z",
+        "duration": "PT34S",
+        "viewCount": "20921",
+        "likeCount": "1691",
+        "commentCount": "195"
+    },
+    {
+        "video_id": "LmTOAMpNYFA",
+        "title": "Python Lambda Functions (Visually Explained) | #Python Course 32",
+        "publishedAt": "2025-10-28T13:00:48Z",
+        "duration": "PT15M51S",
+        "viewCount": "21967",
+        "likeCount": "1019",
+        "commentCount": "102"
+    },
+    {
+        "video_id": "PT2z2TpQsoY",
+        "title": "Why Coding Still Matters in an AI World",
+        "publishedAt": "2025-10-24T13:56:02Z",
+        "duration": "PT41S",
+        "viewCount": "27360",
+        "likeCount": "990",
+        "commentCount": "25"
+    },
+    {
+        "video_id": "hgQD2znCc_I",
+        "title": "Python Iterator vs Iterable (Visually Explained) | enumerate, map, filter | #Python Course 31",
+        "publishedAt": "2025-10-23T12:07:54Z",
+        "duration": "PT23M27S",
+        "viewCount": "17167",
+        "likeCount": "909",
+        "commentCount": "53"
+    },
+    {
+        "video_id": "ihMUU9k28cY",
+        "title": "My Rule to Learn Anything",
+        "publishedAt": "2025-10-17T12:50:09Z",
+        "duration": "PT19S",
+        "viewCount": "61777",
+        "likeCount": "2568",
+        "commentCount": "35"
+    },
+    {
+        "video_id": "OEJv74QnduA",
+        "title": "How I Would Learn Python FAST (If I Could Start Over)",
+        "publishedAt": "2025-10-16T12:17:16Z",
+        "duration": "PT10M48S",
+        "viewCount": "238719",
+        "likeCount": "9815",
+        "commentCount": "248"
+    },
+    {
+        "video_id": "9BZu1jgs2Dk",
+        "title": "How to Combine Lists in Python | 4 Simple Ways and ZIP Visually Explained | #Python Course 30",
+        "publishedAt": "2025-10-15T12:09:01Z",
+        "duration": "PT10M8S",
+        "viewCount": "10667",
+        "likeCount": "682",
+        "commentCount": "44"
+    },
+    {
+        "video_id": "rwzyQ9CS8OE",
+        "title": "I Tried 50 Data Analyst Courses. Here Are Top 5",
+        "publishedAt": "2025-10-14T12:06:19Z",
+        "duration": "PT19M53S",
+        "viewCount": "54736",
+        "likeCount": "2411",
+        "commentCount": "128"
+    },
+    {
+        "video_id": "Ygvf84BIspI",
+        "title": "3 Things I’d Do If I Were 20 Again",
+        "publishedAt": "2025-10-09T13:18:35Z",
+        "duration": "PT51S",
+        "viewCount": "17929",
+        "likeCount": "875",
+        "commentCount": "28"
+    },
+    {
+        "video_id": "zBEwm_IBVxI",
+        "title": "How to Copy Python Lists Safely (Visually Explained) | Shallow Copy vs Deepcopy | #Python Course 29",
+        "publishedAt": "2025-10-09T12:01:55Z",
+        "duration": "PT17M4S",
+        "viewCount": "13647",
+        "likeCount": "758",
+        "commentCount": "53"
+    },
+    {
+        "video_id": "BUsmwsk8Des",
+        "title": "How to Order Lists in Python (Visually Explained) | sort(), sorted(), reverse() | #Python Course 28",
+        "publishedAt": "2025-10-07T12:10:23Z",
+        "duration": "PT10M6S",
+        "viewCount": "12254",
+        "likeCount": "705",
+        "commentCount": "58"
+    },
+    {
+        "video_id": "qtANRuRxiEo",
+        "title": "How to Add, Remove, and Update Lists in Python (Visually Explained) | #Python Course 27",
+        "publishedAt": "2025-09-30T12:00:54Z",
+        "duration": "PT23M18S",
+        "viewCount": "13603",
+        "likeCount": "1019",
+        "commentCount": "106"
+    },
+    {
+        "video_id": "I9DfCIqQbpc",
+        "title": "I Tried 50 Data Engineer Courses. Here Are Top 5",
+        "publishedAt": "2025-09-23T12:00:40Z",
+        "duration": "PT9M44S",
+        "viewCount": "64872",
+        "likeCount": "2571",
+        "commentCount": "195"
+    },
+    {
+        "video_id": "zVt7oaBUsHk",
+        "title": "How to Explore & Analyze Lists in Python | #Python Course 26",
+        "publishedAt": "2025-09-18T12:09:07Z",
+        "duration": "PT14M3S",
+        "viewCount": "15632",
+        "likeCount": "836",
+        "commentCount": "83"
+    },
+    {
+        "video_id": "mSUBfY-Geuc",
+        "title": "Python Unpacking (Visually Explained) | Asterisk * and Underscore _ | #Python Course 25",
+        "publishedAt": "2025-09-16T11:37:26Z",
+        "duration": "PT17M59S",
+        "viewCount": "15230",
+        "likeCount": "1182",
+        "commentCount": "81"
+    },
+    {
+        "video_id": "0wRJn9uEyLQ",
+        "title": "4 Signs You’ll Become a Senior Developer 🚀",
+        "publishedAt": "2025-09-12T14:32:41Z",
+        "duration": "PT57S",
+        "viewCount": "27233",
+        "likeCount": "1696",
+        "commentCount": "39"
+    },
+    {
+        "video_id": "oPZ5xoKZ6Og",
+        "title": "How to Access Lists in Python (Indexing & Slicing Explained) | #Python Course 24",
+        "publishedAt": "2025-09-11T12:03:19Z",
+        "duration": "PT16M51S",
+        "viewCount": "16294",
+        "likeCount": "1205",
+        "commentCount": "87"
+    },
+    {
+        "video_id": "LWeS6R9IPf4",
+        "title": "How to Create a List in Python (Visually Explained) | #Python Course 23",
+        "publishedAt": "2025-09-09T12:21:37Z",
+        "duration": "PT12M6S",
+        "viewCount": "18235",
+        "likeCount": "1442",
+        "commentCount": "79"
+    },
+    {
+        "video_id": "SVjXp22ddFQ",
+        "title": "Introduction to Data Structures in Python (Visually Explained) | #Python Course 22",
+        "publishedAt": "2025-09-04T13:30:08Z",
+        "duration": "PT10M11S",
+        "viewCount": "32214",
+        "likeCount": "1564",
+        "commentCount": "151"
+    },
+    {
+        "video_id": "iaRj5xGHCuE",
+        "title": "Python Loops (Visually Explained) | For, While, Break, Continue, Else",
+        "publishedAt": "2025-09-02T12:02:00Z",
+        "duration": "PT1H45M8S",
+        "viewCount": "40637",
+        "likeCount": "1685",
+        "commentCount": "145"
+    },
+    {
+        "video_id": "wAJ3lgA_uDU",
+        "title": "DataCamp Review - Is It Worth It?",
+        "publishedAt": "2025-08-26T12:01:26Z",
+        "duration": "PT14M40S",
+        "viewCount": "42566",
+        "likeCount": "1111",
+        "commentCount": "130"
+    },
+    {
+        "video_id": "agZQ4B4pQbE",
+        "title": "Data Engineers… Stop Ignoring THIS Skill! 🚨",
+        "publishedAt": "2025-08-22T14:29:39Z",
+        "duration": "PT34S",
+        "viewCount": "45276",
+        "likeCount": "2339",
+        "commentCount": "91"
+    },
+    {
+        "video_id": "T4XyufhO8nE",
+        "title": "Top 10 Data Science Q&A: Careers, Skills, AI & More",
+        "publishedAt": "2025-08-21T12:25:56Z",
+        "duration": "PT7M16S",
+        "viewCount": "12399",
+        "likeCount": "714",
+        "commentCount": "98"
+    },
+    {
+        "video_id": "gD8ePxAhjUM",
+        "title": "Python While Loops (Visually Explained) | For vs While Loops | #Python Course 21",
+        "publishedAt": "2025-08-19T12:09:21Z",
+        "duration": "PT28M36S",
+        "viewCount": "21263",
+        "likeCount": "1351",
+        "commentCount": "130"
+    },
+    {
+        "video_id": "ck1AzCDs0ss",
+        "title": "Python Nested Loops are Easy | A Must-Have Skill for Data Engineers | #Python Course 20",
+        "publishedAt": "2025-08-14T12:27:05Z",
+        "duration": "PT16M43S",
+        "viewCount": "20378",
+        "likeCount": "1302",
+        "commentCount": "115"
+    },
+    {
+        "video_id": "KlVXZu8V1VM",
+        "title": "Python For-Else Loop (Visually Explained) | Hidden Control Flow Trick | #Python Course 19",
+        "publishedAt": "2025-08-12T12:18:37Z",
+        "duration": "PT17M9S",
+        "viewCount": "15725",
+        "likeCount": "1037",
+        "commentCount": "119"
+    },
+    {
+        "video_id": "fx8MJxW8wb4",
+        "title": "Python Break vs Continue vs Pass (Visually Explained) | Control Statements | #Python Course 18",
+        "publishedAt": "2025-08-05T12:05:07Z",
+        "duration": "PT20M44S",
+        "viewCount": "20489",
+        "likeCount": "989",
+        "commentCount": "98"
+    },
+    {
+        "video_id": "MvV2xY_u1rw",
+        "title": "What Data Scientists Actually Do in 2025 (Full Breakdown)",
+        "publishedAt": "2025-07-31T12:54:18Z",
+        "duration": "PT15M38S",
+        "viewCount": "18548",
+        "likeCount": "1050",
+        "commentCount": "87"
+    },
+    {
+        "video_id": "7mwB_IiC6PM",
+        "title": "How I Would become a Data Scientist FAST(if I could start over in 2025) #datascience",
+        "publishedAt": "2025-07-30T12:29:08Z",
+        "duration": "PT58S",
+        "viewCount": "23488",
+        "likeCount": "1150",
+        "commentCount": "29"
+    },
+    {
+        "video_id": "HWaQttu8_O0",
+        "title": "Python For Loops (Visually Explained) | #Python Course 17",
+        "publishedAt": "2025-07-29T12:01:42Z",
+        "duration": "PT23M53S",
+        "viewCount": "29257",
+        "likeCount": "1265",
+        "commentCount": "144"
+    },
+    {
+        "video_id": "uEfvSWM49pY",
+        "title": "How I’d Learn Data Science in 2025 (If I Had to Start Over) | Built by a Data Expert",
+        "publishedAt": "2025-07-24T12:00:07Z",
+        "duration": "PT47M17S",
+        "viewCount": "57484",
+        "likeCount": "2688",
+        "commentCount": "207"
+    },
+    {
+        "video_id": "wP18POH-uM0",
+        "title": "Python If-Else One Line and Match-Case (Visually Explained) | #Python Course 16",
+        "publishedAt": "2025-07-22T12:07:51Z",
+        "duration": "PT14M11S",
+        "viewCount": "17754",
+        "likeCount": "934",
+        "commentCount": "85"
+    },
+    {
+        "video_id": "7s-zyoaaBOY",
+        "title": "Python If Elif Else Statements (Visually Explained) | #Python Course 15",
+        "publishedAt": "2025-07-15T12:18:53Z",
+        "duration": "PT51M47S",
+        "viewCount": "32963",
+        "likeCount": "1170",
+        "commentCount": "174"
+    },
+    {
+        "video_id": "t75ZipsYTgs",
+        "title": "Top 7 Questions Everyone Asks About Becoming a Data Analyst (Answered!)",
+        "publishedAt": "2025-07-10T12:08:44Z",
+        "duration": "PT3M21S",
+        "viewCount": "17041",
+        "likeCount": "822",
+        "commentCount": "148"
+    },
+    {
+        "video_id": "qtTs03rI7W0",
+        "title": "Python Membership & Identity Operators (Visually Explained) | IN & IS | #Python Course 14",
+        "publishedAt": "2025-07-03T12:01:15Z",
+        "duration": "PT12M32S",
+        "viewCount": "20338",
+        "likeCount": "722",
+        "commentCount": "75"
+    },
+    {
+        "video_id": "yFaYylK1yCE",
+        "title": "Python Logical Operators (Visually Explained) | and, or, not, Execution Order | #Python Course 13",
+        "publishedAt": "2025-07-01T12:41:47Z",
+        "duration": "PT17M55S",
+        "viewCount": "21337",
+        "likeCount": "947",
+        "commentCount": "74"
+    },
+    {
+        "video_id": "Vh0qcDerBMc",
+        "title": "How I’d Learn Python for Data Engineering in 2025 (Step-by-Step)",
+        "publishedAt": "2025-06-27T12:24:39Z",
+        "duration": "PT57S",
+        "viewCount": "133034",
+        "likeCount": "6180",
+        "commentCount": "80"
+    },
+    {
+        "video_id": "-7s3uFl3XnE",
+        "title": "Python vs Power BI: Tools or Code for Data Visualization? How I Decide",
+        "publishedAt": "2025-06-26T13:24:26Z",
+        "duration": "PT4M11S",
+        "viewCount": "21141",
+        "likeCount": "718",
+        "commentCount": "85"
+    },
+    {
+        "video_id": "u46u8lq-zyI",
+        "title": "WE DID IT! 100K 🎉 | Unboxing the YouTube Silver Play Button 🏆",
+        "publishedAt": "2025-06-26T12:34:06Z",
+        "duration": "PT52S",
+        "viewCount": "10728",
+        "likeCount": "1109",
+        "commentCount": "143"
+    },
+    {
+        "video_id": "OZ7AinsDYVo",
+        "title": "Python Comparison Operators (Visually Explained) | #Python Course 12",
+        "publishedAt": "2025-06-25T12:23:23Z",
+        "duration": "PT7M8S",
+        "viewCount": "17634",
+        "likeCount": "598",
+        "commentCount": "65"
+    },
+    {
+        "video_id": "v8tuWg_rvjE",
+        "title": "Python Boolean Functions | bool, all, any, isinstance | #Python Course 11",
+        "publishedAt": "2025-06-24T12:43:06Z",
+        "duration": "PT8M40S",
+        "viewCount": "22733",
+        "likeCount": "761",
+        "commentCount": "58"
+    },
+    {
+        "video_id": "9XbeXpKMR_E",
+        "title": "Python Control Flow: Visually Explained | #Python Course 10",
+        "publishedAt": "2025-06-23T12:21:49Z",
+        "duration": "PT7M",
+        "viewCount": "31341",
+        "likeCount": "1584",
+        "commentCount": "79"
+    },
+    {
+        "video_id": "u8ABLLK3-z0",
+        "title": "Learn Python for Data Analysis in 3 Steps (as quickly as possible)",
+        "publishedAt": "2025-06-19T15:24:30Z",
+        "duration": "PT1M",
+        "viewCount": "276593",
+        "likeCount": "13275",
+        "commentCount": "88"
+    },
+    {
+        "video_id": "tyJ476aNCYU",
+        "title": "How Modern Data Teams Work (Engineer, Analyst, Scientist, Architect, ML)",
+        "publishedAt": "2025-06-18T14:57:53Z",
+        "duration": "PT13M57S",
+        "viewCount": "165393",
+        "likeCount": "9423",
+        "commentCount": "364"
+    },
+    {
+        "video_id": "5ZOxqAGWy70",
+        "title": "Python Numbers Mastery | Math Functions, Round & Random | #Python Course 9",
+        "publishedAt": "2025-06-17T12:23:02Z",
+        "duration": "PT28M51S",
+        "viewCount": "33770",
+        "likeCount": "1467",
+        "commentCount": "176"
+    },
+    {
+        "video_id": "5JRgHJDy3aw",
+        "title": "The Complete Data Analyst Roadmap (How I'd Do It) #dataanalytics",
+        "publishedAt": "2025-06-11T13:17:39Z",
+        "duration": "PT1M",
+        "viewCount": "119266",
+        "likeCount": "5131",
+        "commentCount": "38"
+    },
+    {
+        "video_id": "ITGF5L20zJE",
+        "title": "How I’d Become a Data Analyst in 2025 (If I Could Start Over) | Built by an Expert",
+        "publishedAt": "2025-06-10T12:22:31Z",
+        "duration": "PT37M59S",
+        "viewCount": "74902",
+        "likeCount": "3311",
+        "commentCount": "368"
+    },
+    {
+        "video_id": "Yveo5hCrGLE",
+        "title": "Python String Functions Explained | Text Manipulation & Cleaning | #Python Course 8",
+        "publishedAt": "2025-06-05T13:42:17Z",
+        "duration": "PT1H14M37S",
+        "viewCount": "82228",
+        "likeCount": "2437",
+        "commentCount": "332"
+    },
+    {
+        "video_id": "h33TJVFXuPo",
+        "title": "Easiest Way To Learn SQL (Even in 2025)",
+        "publishedAt": "2025-06-05T12:06:37Z",
+        "duration": "PT54S",
+        "viewCount": "53068",
+        "likeCount": "2842",
+        "commentCount": "38"
+    },
+    {
+        "video_id": "FRJlIfqCDek",
+        "title": "100k  Subscriber Livestream!!",
+        "publishedAt": "2025-05-29T16:42:27Z",
+        "duration": "PT9M39S",
+        "viewCount": "3429",
+        "likeCount": "394",
+        "commentCount": "217"
+    },
+    {
+        "video_id": "6XH4zK68L6E",
+        "title": "How I Would Learn Power BI Fast  (If I Could Start Over)",
+        "publishedAt": "2025-05-27T12:15:54Z",
+        "duration": "PT9M3S",
+        "viewCount": "55887",
+        "likeCount": "2097",
+        "commentCount": "292"
+    },
+    {
+        "video_id": "6c6X0lWik1U",
+        "title": "How Python Works Behind the Scenes #Python",
+        "publishedAt": "2025-05-22T16:15:45Z",
+        "duration": "PT1M",
+        "viewCount": "12269",
+        "likeCount": "572",
+        "commentCount": "18"
+    },
+    {
+        "video_id": "0uY2qNAsAWs",
+        "title": "Python Data Types: Visually Explained | #Python Course 7",
+        "publishedAt": "2025-05-20T12:38:00Z",
+        "duration": "PT30M23S",
+        "viewCount": "63129",
+        "likeCount": "2597",
+        "commentCount": "259"
+    },
+    {
+        "video_id": "MXf4EKQxN4E",
+        "title": "How I Would become a Data Engineer FAST(if I could start over in 2025) #dataengineering",
+        "publishedAt": "2025-05-15T14:17:51Z",
+        "duration": "PT1M",
+        "viewCount": "178820",
+        "likeCount": "8292",
+        "commentCount": "77"
+    },
+    {
+        "video_id": "we54H-T1AL0",
+        "title": "Python Input Function: Visually Explained | #Python Course 6",
+        "publishedAt": "2025-05-15T13:01:50Z",
+        "duration": "PT9M16S",
+        "viewCount": "43166",
+        "likeCount": "1481",
+        "commentCount": "113"
+    },
+    {
+        "video_id": "odZHmYgebbw",
+        "title": "How I would learn Data Engineering (if I could start over) – Built by a Data Engineer",
+        "publishedAt": "2025-05-13T12:26:36Z",
+        "duration": "PT22M47S",
+        "viewCount": "337769",
+        "likeCount": "13334",
+        "commentCount": "771"
+    },
+    {
+        "video_id": "DQrCngWqFmQ",
+        "title": "Python Explained with One Simple Sketch #Python",
+        "publishedAt": "2025-05-08T14:51:44Z",
+        "duration": "PT1M",
+        "viewCount": "9646",
+        "likeCount": "290",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "j-dUzskV0l0",
+        "title": "What is DBMS & SQL Server? Simple Sketch #SQL",
+        "publishedAt": "2025-05-08T14:16:54Z",
+        "duration": "PT59S",
+        "viewCount": "9172",
+        "likeCount": "380",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "YHgkADDCWJg",
+        "title": "Python Variables: Visually Explained | #Python Course 5",
+        "publishedAt": "2025-05-08T12:27:51Z",
+        "duration": "PT13M39S",
+        "viewCount": "47791",
+        "likeCount": "2361",
+        "commentCount": "215"
+    },
+    {
+        "video_id": "7lPwKL-M3lc",
+        "title": "SQL Explained with One Simple Sketch #SQL",
+        "publishedAt": "2025-05-02T12:46:24Z",
+        "duration": "PT57S",
+        "viewCount": "7141",
+        "likeCount": "243",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "IdXTxbBfDbc",
+        "title": "Python Print Function: Visually Explained | #Python Course 4",
+        "publishedAt": "2025-05-01T13:01:09Z",
+        "duration": "PT21M29S",
+        "viewCount": "66278",
+        "likeCount": "3100",
+        "commentCount": "268"
+    },
+    {
+        "video_id": "GEOnKhm940k",
+        "title": "Python Comments: Visually Explained | #Python Course 3",
+        "publishedAt": "2025-04-29T11:57:42Z",
+        "duration": "PT5M20S",
+        "viewCount": "53842",
+        "likeCount": "1355",
+        "commentCount": "94"
+    },
+    {
+        "video_id": "uge4A1LHsNk",
+        "title": "How to Install Python and VS Code + BONUS Roadmap! (Step-by-Step) | #Python Course 2",
+        "publishedAt": "2025-04-24T11:25:13Z",
+        "duration": "PT14M11S",
+        "viewCount": "159131",
+        "likeCount": "5044",
+        "commentCount": "312"
+    },
+    {
+        "video_id": "GRNI9T9R8gQ",
+        "title": "What is Python (Visually Explained) | How It Works and How to Learn It | #Python Course 1",
+        "publishedAt": "2025-04-17T11:11:32Z",
+        "duration": "PT10M47S",
+        "viewCount": "207954",
+        "likeCount": "6899",
+        "commentCount": "632"
+    },
+    {
+        "video_id": "SSKVgrwhzus",
+        "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+        "publishedAt": "2025-03-27T13:00:28Z",
+        "duration": "P1DT5H48M28S",
+        "viewCount": "4549306",
+        "likeCount": "100607",
+        "commentCount": "7327"
+    },
+    {
+        "video_id": "ulby6deC8UM",
+        "title": "SQL Functions (Visually Explained) | In 5 Minutes | #SQL Course 12",
+        "publishedAt": "2025-03-21T13:23:39Z",
+        "duration": "PT5M24S",
+        "viewCount": "57417",
+        "likeCount": "1168",
+        "commentCount": "46"
+    },
+    {
+        "video_id": "AsuPVZ_EjEw",
+        "title": "SQL Aggregate Functions | COUNT, SUM, AVG, MAX, MIN  | #SQL Course 21",
+        "publishedAt": "2025-03-21T13:13:49Z",
+        "duration": "PT6M38S",
+        "viewCount": "30422",
+        "likeCount": "806",
+        "commentCount": "26"
+    },
+    {
+        "video_id": "CEciO2GJx7U",
+        "title": "SQL Number Functions (Visually Explained) | ROUND, ABS | #SQL Course 14",
+        "publishedAt": "2025-03-21T13:11:46Z",
+        "duration": "PT4M22S",
+        "viewCount": "34749",
+        "likeCount": "888",
+        "commentCount": "22"
+    },
+    {
+        "video_id": "NOTWx5s-s1o",
+        "title": "SQL String Functions (Visually Explained) | A Detailed Guide | #SQL Course 13",
+        "publishedAt": "2025-03-21T13:09:28Z",
+        "duration": "PT26M28S",
+        "viewCount": "56926",
+        "likeCount": "2017",
+        "commentCount": "119"
+    },
+    {
+        "video_id": "GXSnaR1Xx5c",
+        "title": "SQL Joins Made EASY! 🔥 Learn with Animations & Practice",
+        "publishedAt": "2025-03-21T10:57:18Z",
+        "duration": "PT1H15M13S",
+        "viewCount": "23568",
+        "likeCount": "835",
+        "commentCount": "53"
+    },
+    {
+        "video_id": "pPvZQPE-j7A",
+        "title": "Joining Multiple Tables in SQL (Visually Explained) | 3+ Table Joins | #SQL Course 10",
+        "publishedAt": "2025-03-20T13:24:32Z",
+        "duration": "PT14M49S",
+        "viewCount": "71899",
+        "likeCount": "1705",
+        "commentCount": "94"
+    },
+    {
+        "video_id": "Of2Z6hL0ETE",
+        "title": "Advanced SQL Joins (Visually Explained) | ANTI, CROSS | #SQL Course 9",
+        "publishedAt": "2025-03-20T12:48:53Z",
+        "duration": "PT19M17S",
+        "viewCount": "70525",
+        "likeCount": "1569",
+        "commentCount": "75"
+    },
+    {
+        "video_id": "aY7z4HcHm5M",
+        "title": "SQL Joins Basics (Visually Explained) | INNER, LEFT, RIGHT, FULL | #SQL Course 8",
+        "publishedAt": "2025-03-20T12:24:52Z",
+        "duration": "PT40M19S",
+        "viewCount": "152194",
+        "likeCount": "4893",
+        "commentCount": "280"
+    },
+    {
+        "video_id": "cMUJFau5Wvg",
+        "title": "SQL WHERE Conditions (Visually Explained) | AND, OR, NOT, LIKE, BETWEEN, IN | #SQL Course 7",
+        "publishedAt": "2025-03-20T12:21:45Z",
+        "duration": "PT40M38S",
+        "viewCount": "73850",
+        "likeCount": "2902",
+        "commentCount": "154"
+    },
+    {
+        "video_id": "ku3vMAP0h0s",
+        "title": "SQL DML Commands (Visually Explained) | INSERT, UPDATE, DELETE | #SQL Course 6",
+        "publishedAt": "2025-03-20T09:59:33Z",
+        "duration": "PT25M7S",
+        "viewCount": "80575",
+        "likeCount": "2682",
+        "commentCount": "141"
+    },
+    {
+        "video_id": "3Qbq61A_sNs",
+        "title": "SQL DDL Commands (Visually Explained) | CREATE, ALTER, DROP | #SQL Course 5",
+        "publishedAt": "2025-03-20T09:59:17Z",
+        "duration": "PT11M35S",
+        "viewCount": "88302",
+        "likeCount": "1744",
+        "commentCount": "65"
+    },
+    {
+        "video_id": "-Xmrrj7U34g",
+        "title": "SQL Order of Execution (Visually Explained) | Understanding How Queries Run",
+        "publishedAt": "2025-03-19T11:50:32Z",
+        "duration": "PT4M4S",
+        "viewCount": "13481",
+        "likeCount": "642",
+        "commentCount": "34"
+    },
+    {
+        "video_id": "TDKoTItCVMU",
+        "title": "SQL SELECT Queries (Visually Explained) for Beginners | All Essential Clauses | #SQL Course 4",
+        "publishedAt": "2025-03-19T11:08:36Z",
+        "duration": "PT54M50S",
+        "viewCount": "190799",
+        "likeCount": "5189",
+        "commentCount": "355"
+    },
+    {
+        "video_id": "BF7E-GNXSBQ",
+        "title": "SQL Installation: How to Setup & Install SQL Server | #SQL Course 3",
+        "publishedAt": "2025-03-18T11:22:46Z",
+        "duration": "PT11M42S",
+        "viewCount": "93782",
+        "likeCount": "1390",
+        "commentCount": "140"
+    },
+    {
+        "video_id": "RBXZrPVjPyo",
+        "title": "What is SQL (Visually Explained) | #SQL Course 2",
+        "publishedAt": "2025-03-17T14:12:02Z",
+        "duration": "PT14M58S",
+        "viewCount": "136030",
+        "likeCount": "3166",
+        "commentCount": "129"
+    },
+    {
+        "video_id": "D_0Veya2XAY",
+        "title": "How I Would Learn SQL (If I Could Start Over in 2025) | #SQL Course 1",
+        "publishedAt": "2025-03-10T11:06:55Z",
+        "duration": "PT5M55S",
+        "viewCount": "354330",
+        "likeCount": "4899",
+        "commentCount": "214"
+    },
+    {
+        "video_id": "2jGhQpbzHes",
+        "title": "SQL Data Analyst Portfolio Project | Like I Do in My Real Projects",
+        "publishedAt": "2025-02-24T11:13:01Z",
+        "duration": "PT1H23M36S",
+        "viewCount": "251029",
+        "likeCount": "6774",
+        "commentCount": "389"
+    },
+    {
+        "video_id": "6cJ5Ji8zSDg",
+        "title": "SQL Exploratory Data Analysis (EDA) Project | Full Hands-On Portfolio Project",
+        "publishedAt": "2025-02-17T11:08:08Z",
+        "duration": "PT51M14S",
+        "viewCount": "105915",
+        "likeCount": "3200",
+        "commentCount": "213"
+    },
+    {
+        "video_id": "9GVqKuTVANE",
+        "title": "SQL Data Warehouse from Scratch | Full Hands-On Data Engineering Project",
+        "publishedAt": "2025-02-10T11:05:30Z",
+        "duration": "PT4H23M9S",
+        "viewCount": "776696",
+        "likeCount": "19907",
+        "commentCount": "997"
+    },
+    {
+        "video_id": "9bxTdAwuStI",
+        "title": "Building The Gold Layer: Star Schema Modeling | Data Engineer Portfolio Project | #SQL Project 9",
+        "publishedAt": "2025-02-03T11:23:47Z",
+        "duration": "PT54M49S",
+        "viewCount": "30486",
+        "likeCount": "898",
+        "commentCount": "106"
+    },
+    {
+        "video_id": "04BdYu_3WRY",
+        "title": "Build The Silver Layer: Cleanse & Transform Data | Data Engineer Portfolio Project | #SQL Project 8",
+        "publishedAt": "2025-01-27T11:12:27Z",
+        "duration": "PT1H38M2S",
+        "viewCount": "43666",
+        "likeCount": "915",
+        "commentCount": "120"
+    },
+    {
+        "video_id": "V0zc5Y_THZc",
+        "title": "Build The Bronze Layer: Data Ingestion  | Data Engineer Portfolio Project | #SQL Project 7",
+        "publishedAt": "2025-01-22T11:44:58Z",
+        "duration": "PT37M41S",
+        "viewCount": "34757",
+        "likeCount": "905",
+        "commentCount": "106"
+    },
+    {
+        "video_id": "5266en9bae0",
+        "title": "Project Setup: Git, Naming & Database Creation | Data Engineer Portfolio Project | #SQL Project 6",
+        "publishedAt": "2025-01-21T11:11:07Z",
+        "duration": "PT17M18S",
+        "viewCount": "28577",
+        "likeCount": "662",
+        "commentCount": "35"
+    },
+    {
+        "video_id": "shUMovyA1cs",
+        "title": "Design Data Architecture for Your Data Warehouse | Data Engineer Portfolio Project | #SQL Project 5",
+        "publishedAt": "2025-01-20T11:06:20Z",
+        "duration": "PT25M30S",
+        "viewCount": "33328",
+        "likeCount": "1228",
+        "commentCount": "63"
+    },
+    {
+        "video_id": "CfM3aVtK7JM",
+        "title": "Notion Project Plan & Set Up Your Environment | Data Engineer Portfolio Project | #SQL Project 4",
+        "publishedAt": "2025-01-15T12:51:46Z",
+        "duration": "PT10M4S",
+        "viewCount": "27793",
+        "likeCount": "632",
+        "commentCount": "56"
+    },
+    {
+        "video_id": "Jep7nVN4dB0",
+        "title": "ETL Process Visually Explained | Data Engineer Portfolio Project | #SQL Project 3",
+        "publishedAt": "2025-01-15T12:01:40Z",
+        "duration": "PT11M12S",
+        "viewCount": "38362",
+        "likeCount": "1116",
+        "commentCount": "68"
+    },
+    {
+        "video_id": "N9bzvre_jss",
+        "title": "Data Warehouse Basics Visually Explained | Data Engineer Portfolio Project | #SQL Project 2",
+        "publishedAt": "2025-01-15T11:59:09Z",
+        "duration": "PT6M55S",
+        "viewCount": "34976",
+        "likeCount": "870",
+        "commentCount": "53"
+    },
+    {
+        "video_id": "YX9d7Q7MN9M",
+        "title": "Intro To SQL Project | Data Engineer Portfolio Project | #SQL Project 1",
+        "publishedAt": "2025-01-15T11:57:34Z",
+        "duration": "PT1M47S",
+        "viewCount": "41340",
+        "likeCount": "1306",
+        "commentCount": "77"
+    },
+    {
+        "video_id": "p_IKgrLvopQ",
+        "title": "Big News 🔥 My Next Data Course for this Year! #coding",
+        "publishedAt": "2025-01-06T10:23:02Z",
+        "duration": "PT1M",
+        "viewCount": "16371",
+        "likeCount": "1293",
+        "commentCount": "139"
+    },
+    {
+        "video_id": "Wvg4PjbMTO8",
+        "title": "The Ultimate SQL Window Functions Course | Complete End-to-End Guide",
+        "publishedAt": "2024-12-24T13:37:48Z",
+        "duration": "PT3H51M23S",
+        "viewCount": "70749",
+        "likeCount": "1790",
+        "commentCount": "179"
+    },
+    {
+        "video_id": "XGKyX_hH3Pc",
+        "title": "How I Use ChatGPT & GitHub Copilot in My Projects | #SQL Course 44",
+        "publishedAt": "2024-12-17T11:02:37Z",
+        "duration": "PT57M24S",
+        "viewCount": "25204",
+        "likeCount": "967",
+        "commentCount": "101"
+    },
+    {
+        "video_id": "V81Smc6xrBY",
+        "title": "SQL Triggers (Visually Explained) | Audit Logs Use Case | #SQL Course 34",
+        "publishedAt": "2024-12-12T14:39:04Z",
+        "duration": "PT11M13S",
+        "viewCount": "38881",
+        "likeCount": "1288",
+        "commentCount": "60"
+    },
+    {
+        "video_id": "DX8I5SmB6jo",
+        "title": "SQL Stored Procedure (Visually Explained) | Comprehensive Guide | #SQL Course 33",
+        "publishedAt": "2024-12-10T11:22:34Z",
+        "duration": "PT46M53S",
+        "viewCount": "89133",
+        "likeCount": "2468",
+        "commentCount": "171"
+    },
+    {
+        "video_id": "Iyr7KQUCb0M",
+        "title": "30 SQL Tips and Tricks From 18 Years of Experience | #SQL Course 43",
+        "publishedAt": "2024-12-03T11:50:33Z",
+        "duration": "PT45M54S",
+        "viewCount": "42093",
+        "likeCount": "1550",
+        "commentCount": "104"
+    },
+    {
+        "video_id": "tQQ3XwrKbfM",
+        "title": "SQL Table Partitioning (Visually Explained) | Optimize Big Table Performance | #SQL Course 42",
+        "publishedAt": "2024-11-26T10:50:36Z",
+        "duration": "PT33M22S",
+        "viewCount": "62497",
+        "likeCount": "2088",
+        "commentCount": "152"
+    },
+    {
+        "video_id": "0UxHG8zJ3F4",
+        "title": "My Indexing Strategy for Every SQL Project | Indexing Best Practices | #SQL Course 41",
+        "publishedAt": "2024-11-18T11:55:45Z",
+        "duration": "PT19M1S",
+        "viewCount": "33448",
+        "likeCount": "932",
+        "commentCount": "54"
+    },
+    {
+        "video_id": "pwmynHnr704",
+        "title": "The First Thing I Do in Every SQL Project (Most Devs Don’t!) 🔥 #sql #data",
+        "publishedAt": "2024-11-13T13:42:01Z",
+        "duration": "PT1M",
+        "viewCount": "138786",
+        "likeCount": "8007",
+        "commentCount": "61"
+    },
+    {
+        "video_id": "O7AzUDogXsw",
+        "title": "SQL Execution Plans (Visually Explained) | SQL Hints | #SQL Course 40",
+        "publishedAt": "2024-11-13T12:12:37Z",
+        "duration": "PT32M16S",
+        "viewCount": "82958",
+        "likeCount": "2614",
+        "commentCount": "121"
+    },
+    {
+        "video_id": "n9EWmfrMpZc",
+        "title": "SQL Index Maintenance | 5 Things to Do after Creating Indexes | SQL Statistics | #SQL Course 39",
+        "publishedAt": "2024-11-11T13:52:10Z",
+        "duration": "PT35M",
+        "viewCount": "21847",
+        "likeCount": "854",
+        "commentCount": "51"
+    },
+    {
+        "video_id": "1lHNw365ldc",
+        "title": "How to Choose the Right Index (Visually Explained) | #SQL Course 38",
+        "publishedAt": "2024-11-07T13:20:02Z",
+        "duration": "PT3M54S",
+        "viewCount": "15075",
+        "likeCount": "818",
+        "commentCount": "43"
+    },
+    {
+        "video_id": "PU2ajABOH-w",
+        "title": "SQL Unique & Filtered Indexes (Visually Explained) | #SQL Course 37",
+        "publishedAt": "2024-11-07T11:04:59Z",
+        "duration": "PT12M3S",
+        "viewCount": "20921",
+        "likeCount": "998",
+        "commentCount": "57"
+    },
+    {
+        "video_id": "k9DpO91W76o",
+        "title": "SQL Columnstore Index (Visually Explained) | Columnstore vs Rowstore | #SQL Course 36",
+        "publishedAt": "2024-11-05T11:04:53Z",
+        "duration": "PT26M23S",
+        "viewCount": "45168",
+        "likeCount": "1632",
+        "commentCount": "100"
+    },
+    {
+        "video_id": "BxAj3bl00-o",
+        "title": "SQL Indexes (Visually Explained) | Clustered vs Nonclustered | #SQL Course 35",
+        "publishedAt": "2024-10-30T11:15:33Z",
+        "duration": "PT43M10S",
+        "viewCount": "131244",
+        "likeCount": "4319",
+        "commentCount": "252"
+    },
+    {
+        "video_id": "6RU6T8HKgYA",
+        "title": "SQL Subquery vs CTE vs Views vs CTAS vs TEMP | #SQL Course 32",
+        "publishedAt": "2024-10-09T11:02:58Z",
+        "duration": "PT9M43S",
+        "viewCount": "24790",
+        "likeCount": "1163",
+        "commentCount": "84"
+    },
+    {
+        "video_id": "Y4OIi5DeBxg",
+        "title": "SQL Temp Tables (Visually Explained) | #SQL Course 31",
+        "publishedAt": "2024-10-08T08:56:35Z",
+        "duration": "PT16M19S",
+        "viewCount": "25527",
+        "likeCount": "1077",
+        "commentCount": "60"
+    },
+    {
+        "video_id": "Sf13J8mS4Qg",
+        "title": "How Do I Build a Tableau Project 🔥 # Tableau",
+        "publishedAt": "2024-10-07T10:26:29Z",
+        "duration": "PT45S",
+        "viewCount": "7790",
+        "likeCount": "366",
+        "commentCount": "13"
+    },
+    {
+        "video_id": "559lleUXl5Q",
+        "title": "SQL CTAS | How to Create SQL Tables From a Query | #SQL Course 30",
+        "publishedAt": "2024-10-01T10:14:07Z",
+        "duration": "PT25M59S",
+        "viewCount": "31017",
+        "likeCount": "1264",
+        "commentCount": "108"
+    },
+    {
+        "video_id": "n17RCiV5xpA",
+        "title": "SQL Views (Visually Explained) | 6 Top Use Cases | #SQL Course 29",
+        "publishedAt": "2024-09-23T10:07:58Z",
+        "duration": "PT1H2M41S",
+        "viewCount": "66068",
+        "likeCount": "2099",
+        "commentCount": "211"
+    },
+    {
+        "video_id": "5x1uodxEIaM",
+        "title": "SQL CTE (Common Table Expression) Visually Explained | Full Guide WITH Clause | #SQL Course 28",
+        "publishedAt": "2024-09-17T10:57:58Z",
+        "duration": "PT1H17M42S",
+        "viewCount": "137986",
+        "likeCount": "3388",
+        "commentCount": "309"
+    },
+    {
+        "video_id": "tvBp81WVrCA",
+        "title": "SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27",
+        "publishedAt": "2024-09-03T09:17:52Z",
+        "duration": "PT1H21M28S",
+        "viewCount": "146537",
+        "likeCount": "4457",
+        "commentCount": "338"
+    },
+    {
+        "video_id": "pLQnckHOD8I",
+        "title": "5 SQL Techniques You Need in Every Project (Visually Explained) | #SQL Course 26",
+        "publishedAt": "2024-08-27T15:36:05Z",
+        "duration": "PT18M52S",
+        "viewCount": "37810",
+        "likeCount": "1711",
+        "commentCount": "113"
+    },
+    {
+        "video_id": "RyvksI0iezo",
+        "title": "SQL Date & Time Functions (Visually Explained) | DATEADD, DATEDIFF, ISDATE | #SQL Course 17",
+        "publishedAt": "2024-08-20T12:00:23Z",
+        "duration": "PT23M48S",
+        "viewCount": "42678",
+        "likeCount": "1525",
+        "commentCount": "124"
+    },
+    {
+        "video_id": "U7WMMzxvwT4",
+        "title": "SQL Date & Time Functions (Visually Explained) | FORMAT, CONVERT, CAST | #SQL Course 16",
+        "publishedAt": "2024-08-15T08:02:14Z",
+        "duration": "PT30M47S",
+        "viewCount": "58811",
+        "likeCount": "1909",
+        "commentCount": "129"
+    },
+    {
+        "video_id": "7RCxH9x5StM",
+        "title": "SQL Date & Time Functions | DATEPART, DATENAME, DATETRUNC, EOMONTH | #SQL Course 15",
+        "publishedAt": "2024-08-13T10:08:13Z",
+        "duration": "PT43M27S",
+        "viewCount": "89311",
+        "likeCount": "2870",
+        "commentCount": "189"
+    },
+    {
+        "video_id": "hwDa6R7G9sA",
+        "title": "SQL NULL vs Empty String vs Blank Space (Visually Explained) | #SQL Course 19",
+        "publishedAt": "2024-07-30T10:07:38Z",
+        "duration": "PT17M5S",
+        "viewCount": "34942",
+        "likeCount": "1464",
+        "commentCount": "98"
+    },
+    {
+        "video_id": "X_cPXHV2NQ4",
+        "title": "SQL NULL Functions | COALESCE, ISNULL, NULLIF, IS (NOT) NULL | #SQL Course 18",
+        "publishedAt": "2024-07-23T09:28:59Z",
+        "duration": "PT53M",
+        "viewCount": "69885",
+        "likeCount": "2384",
+        "commentCount": "202"
+    },
+    {
+        "video_id": "GHPHZ8XJxeg",
+        "title": "SQL CASE WHEN Statement (Visually Explained) | #SQL Course 20",
+        "publishedAt": "2024-06-26T10:08:36Z",
+        "duration": "PT36M19S",
+        "viewCount": "65545",
+        "likeCount": "2238",
+        "commentCount": "190"
+    },
+    {
+        "video_id": "UcGF09Awm4Y",
+        "title": "Complete HR Tableau Project End-to-End | Like I Do in My Real Projects",
+        "publishedAt": "2024-06-18T10:35:00Z",
+        "duration": "PT3H41M23S",
+        "viewCount": "250314",
+        "likeCount": "5416",
+        "commentCount": "481"
+    },
+    {
+        "video_id": "DRgvB1dQvh4",
+        "title": "Tableau Project in marking 😎 #tableau",
+        "publishedAt": "2024-06-17T09:51:55Z",
+        "duration": "PT39S",
+        "viewCount": "12348",
+        "likeCount": "701",
+        "commentCount": "43"
+    },
+    {
+        "video_id": "LUSPRn2zxSo",
+        "title": "SQL SET Operators (Visually Explained) | UNION, UNION ALL, EXCEPT, INTERSECT | #SQL Course 11",
+        "publishedAt": "2024-05-28T14:10:56Z",
+        "duration": "PT48M38S",
+        "viewCount": "89679",
+        "likeCount": "3098",
+        "commentCount": "238"
+    },
+    {
+        "video_id": "Jag6Eb2i-bQ",
+        "title": "SQL Value Window Functions | LEAD, LAG, FIRST_VALUE, LAST_VALUE | #SQL Course 25",
+        "publishedAt": "2024-05-21T10:02:20Z",
+        "duration": "PT45M2S",
+        "viewCount": "66043",
+        "likeCount": "2157",
+        "commentCount": "182"
+    },
+    {
+        "video_id": "KHRIAmgXkRI",
+        "title": "Tableau Visually Explained with 150 Animated Sketches",
+        "publishedAt": "2024-05-20T11:26:57Z",
+        "duration": "PT1H35M39S",
+        "viewCount": "6564",
+        "likeCount": "289",
+        "commentCount": "25"
+    },
+    {
+        "video_id": "7scJR9b5kc0",
+        "title": "Top 4 Analytical Use Cases for ROW_NUMBER SQL Window Function",
+        "publishedAt": "2024-05-16T10:02:27Z",
+        "duration": "PT16M",
+        "viewCount": "1913",
+        "likeCount": "96",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "cXhv4kmIzFw",
+        "title": "SQL Ranking Window Functions | ROW_NUMBER, RANK, DENSE_RANK, NTILE | #SQL Course 24",
+        "publishedAt": "2024-05-14T11:19:22Z",
+        "duration": "PT1H4M32S",
+        "viewCount": "87020",
+        "likeCount": "3120",
+        "commentCount": "260"
+    },
+    {
+        "video_id": "QaydY3Ho3Y4",
+        "title": "10.000 Subscribers! THANK YOU",
+        "publishedAt": "2024-05-06T13:11:01Z",
+        "duration": "PT23S",
+        "viewCount": "6092",
+        "likeCount": "469",
+        "commentCount": "50"
+    },
+    {
+        "video_id": "GzRyOsQsugk",
+        "title": "Running & Rolling Total | Moving & Rolling Average |  SQL Key Data Analysis Concepts",
+        "publishedAt": "2024-04-30T07:43:50Z",
+        "duration": "PT19M7S",
+        "viewCount": "13425",
+        "likeCount": "645",
+        "commentCount": "51"
+    },
+    {
+        "video_id": "OdnxoJitdAg",
+        "title": "SQL Aggregate Window Functions | COUNT, AVG, SUM, MAX, MIN | #SQL Course 23",
+        "publishedAt": "2024-04-23T10:31:22Z",
+        "duration": "PT1H7M34S",
+        "viewCount": "100947",
+        "likeCount": "2915",
+        "commentCount": "319"
+    },
+    {
+        "video_id": "o666k19mZwE",
+        "title": "SQL Window Functions Basics (Visually Explained) | PARTITION BY, ORDER BY, FRAME | #SQL Course 22",
+        "publishedAt": "2024-04-16T10:06:18Z",
+        "duration": "PT57M19S",
+        "viewCount": "213225",
+        "likeCount": "6072",
+        "commentCount": "603"
+    },
+    {
+        "video_id": "ndNE3Z8kKjU",
+        "title": "How to Download & Install (FREE) Microsoft SQL Server, SSMS and 3 AdventureWorks Databases",
+        "publishedAt": "2024-04-09T15:13:13Z",
+        "duration": "PT15M38S",
+        "viewCount": "77416",
+        "likeCount": "1396",
+        "commentCount": "182"
+    },
+    {
+        "video_id": "ELdz0dXzWGM",
+        "title": "How I'd Learn Advanced SQL and Why (If I Had to Start Over)  | #SQL Course #1",
+        "publishedAt": "2024-04-02T12:15:43Z",
+        "duration": "PT8M53S",
+        "viewCount": "75952",
+        "likeCount": "1571",
+        "commentCount": "122"
+    },
+    {
+        "video_id": "WBqIt2_QcYw",
+        "title": "My Next Data Course?",
+        "publishedAt": "2024-03-21T11:39:16Z",
+        "duration": "PT45S",
+        "viewCount": "67760",
+        "likeCount": "5160",
+        "commentCount": "287"
+    },
+    {
+        "video_id": "K3pXnbniUcM",
+        "title": "Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO",
+        "publishedAt": "2024-03-05T13:12:27Z",
+        "duration": "PT20H47M5S",
+        "viewCount": "1090447",
+        "likeCount": "24569",
+        "commentCount": "1687"
+    },
+    {
+        "video_id": "3NdXE_lUUGY",
+        "title": "Master 61 Tableau Charts from Basic to Advanced",
+        "publishedAt": "2024-02-28T11:23:16Z",
+        "duration": "PT2H20M33S",
+        "viewCount": "49522",
+        "likeCount": "1089",
+        "commentCount": "58"
+    },
+    {
+        "video_id": "dahrmqT5GD4",
+        "title": "Tableau Complete Project End-to-End | Like I Do in My Real Projects",
+        "publishedAt": "2024-02-13T14:25:34Z",
+        "duration": "PT2H24M15S",
+        "viewCount": "448375",
+        "likeCount": "8050",
+        "commentCount": "829"
+    },
+    {
+        "video_id": "mAYvayW77Vw",
+        "title": "Mastering Tableau Dashboards: Layout Containers Explained | #Tableau Course #137",
+        "publishedAt": "2024-02-08T13:59:48Z",
+        "duration": "PT26M34S",
+        "viewCount": "68166",
+        "likeCount": "1661",
+        "commentCount": "132"
+    },
+    {
+        "video_id": "EKsBn3zPxrs",
+        "title": "How to Choose the Right Chart for Your Data  | #Tableau Course #136",
+        "publishedAt": "2024-02-06T12:41:03Z",
+        "duration": "PT12M32S",
+        "viewCount": "12350",
+        "likeCount": "399",
+        "commentCount": "18"
+    },
+    {
+        "video_id": "RrR0aiPO0fI",
+        "title": "Tableau Charts: Progress Bar | #Tableau Course #135",
+        "publishedAt": "2024-01-31T11:23:04Z",
+        "duration": "PT2M48S",
+        "viewCount": "7716",
+        "likeCount": "169",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "Cnqv-E629YI",
+        "title": "Tableau Charts: Funnel Chart | #Tableau Course #134",
+        "publishedAt": "2024-01-30T11:00:36Z",
+        "duration": "PT2M37S",
+        "viewCount": "13940",
+        "likeCount": "173",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "8C1BhH_n0Y8",
+        "title": "Tableau Charts: BANS | #Tableau Course #133",
+        "publishedAt": "2024-01-29T13:07:37Z",
+        "duration": "PT3M3S",
+        "viewCount": "5400",
+        "likeCount": "118",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "zmUWw8Mjldo",
+        "title": "Tableau Charts: KPI & Bar Chart | #Tableau Course #132",
+        "publishedAt": "2024-01-26T18:41:29Z",
+        "duration": "PT5M",
+        "viewCount": "4160",
+        "likeCount": "104",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "Qkr-yV0ZIKE",
+        "title": "Tableau Charts: KPI | #Tableau Course #131",
+        "publishedAt": "2024-01-26T11:27:54Z",
+        "duration": "PT3M43S",
+        "viewCount": "6555",
+        "likeCount": "122",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "27dnJ0zqHJ4",
+        "title": "Tableau Charts: Box Plot | #Tableau Course #130",
+        "publishedAt": "2024-01-25T10:11:25Z",
+        "duration": "PT3M15S",
+        "viewCount": "11495",
+        "likeCount": "141",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "HInAGrnEPrc",
+        "title": "How to Create a Dynamic Quadrant Chart in Tableau | #Tableau Course #129",
+        "publishedAt": "2024-01-24T12:09:29Z",
+        "duration": "PT7M21S",
+        "viewCount": "5354",
+        "likeCount": "108",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "-_7yOIjTATU",
+        "title": "Tableau Charts: Butterfly (Tornado) Charts (2 Methods) | #Tableau Course #128",
+        "publishedAt": "2024-01-23T11:15:20Z",
+        "duration": "PT6M15S",
+        "viewCount": "7439",
+        "likeCount": "120",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "zEQNxx3-zyU",
+        "title": "Tableau Charts: Pareto Charts (2 Methods) | #Tableau Course #127",
+        "publishedAt": "2024-01-22T11:04:58Z",
+        "duration": "PT7M57S",
+        "viewCount": "7395",
+        "likeCount": "162",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "DSgexE2ZQ3o",
+        "title": "Tableau Charts: Waterfall Chart | #Tableau Course #126",
+        "publishedAt": "2024-01-19T12:05:06Z",
+        "duration": "PT2M31S",
+        "viewCount": "11478",
+        "likeCount": "173",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "DRC5KmFUkDI",
+        "title": "Tableau Charts: Calendar | #Tableau Course #125",
+        "publishedAt": "2024-01-18T16:13:58Z",
+        "duration": "PT2M37S",
+        "viewCount": "4550",
+        "likeCount": "92",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "BjPDp9eCEeA",
+        "title": "Tableau Charts: Histograms | #Tableau Course #124",
+        "publishedAt": "2024-01-18T10:27:47Z",
+        "duration": "PT3M16S",
+        "viewCount": "5449",
+        "likeCount": "98",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "n2iySaaElYs",
+        "title": "Tableau Charts: Maps | #Tableau Course #123",
+        "publishedAt": "2024-01-17T13:32:26Z",
+        "duration": "PT8M49S",
+        "viewCount": "9729",
+        "likeCount": "159",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "kX_i5m6LGWA",
+        "title": "Tableau Charts: Bubble Charts | #Tableau Course #122",
+        "publishedAt": "2024-01-16T10:53:22Z",
+        "duration": "PT3M57S",
+        "viewCount": "4177",
+        "likeCount": "79",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "57srsZ08Plc",
+        "title": "Tableau Charts: Heatmap & Treemap | #Tableau Course #121",
+        "publishedAt": "2024-01-15T11:39:27Z",
+        "duration": "PT3M49S",
+        "viewCount": "12749",
+        "likeCount": "154",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "L1c2hTfDrd4",
+        "title": "Tableau Charts: Pie & Donut Charts | #Tableau Course #120",
+        "publishedAt": "2024-01-13T14:49:28Z",
+        "duration": "PT7M13S",
+        "viewCount": "18244",
+        "likeCount": "291",
+        "commentCount": "21"
+    },
+    {
+        "video_id": "ijtE5AvAFyo",
+        "title": "Tableau Charts: Circle Timeline | #Tableau Course #119",
+        "publishedAt": "2024-01-13T11:56:01Z",
+        "duration": "PT2M16S",
+        "viewCount": "3094",
+        "likeCount": "64",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "22jZqaR5ZdM",
+        "title": "Tableau Charts: Dot Plot | #Tableau Course #118",
+        "publishedAt": "2024-01-12T11:39:45Z",
+        "duration": "PT1M33S",
+        "viewCount": "2887",
+        "likeCount": "69",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "v2hGKOscwlQ",
+        "title": "Tableau Charts: Scatter Plot | #Tableau Course #117",
+        "publishedAt": "2024-01-11T11:25:26Z",
+        "duration": "PT3M30S",
+        "viewCount": "7922",
+        "likeCount": "113",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "tBpDHZ9w3Zo",
+        "title": "Tableau Charts: Lollipop Chart | #Tableau Course #116",
+        "publishedAt": "2024-01-10T18:00:16Z",
+        "duration": "PT4M51S",
+        "viewCount": "4462",
+        "likeCount": "105",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "EwJ0LQxh_d0",
+        "title": "Tableau Charts: Bullet Chart | #Tableau Course #115",
+        "publishedAt": "2024-01-10T11:09:42Z",
+        "duration": "PT2M5S",
+        "viewCount": "9223",
+        "likeCount": "137",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "WYMzE_UAGxE",
+        "title": "How to Create a Combination Charts with Bars & Line Charts in Tableau | #Tableau Course #114",
+        "publishedAt": "2024-01-09T11:04:54Z",
+        "duration": "PT2M50S",
+        "viewCount": "5680",
+        "likeCount": "80",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "Lnxf4TMUvEM",
+        "title": "Tableau Charts: Slope Line Chart | #Tableau Course #113",
+        "publishedAt": "2024-01-08T11:06:28Z",
+        "duration": "PT3M50S",
+        "viewCount": "4174",
+        "likeCount": "87",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "WGw4dCaeCQU",
+        "title": "Tableau Charts: Barbell Chart | #Tableau Course #111",
+        "publishedAt": "2024-01-06T13:50:47Z",
+        "duration": "PT5M4S",
+        "viewCount": "4293",
+        "likeCount": "109",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "FF4CVUrgcAU",
+        "title": "Tableau Charts: Sparklines | #Tableau Course #110",
+        "publishedAt": "2024-01-05T10:57:34Z",
+        "duration": "PT2M23S",
+        "viewCount": "4741",
+        "likeCount": "86",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "NBcKW5K29UM",
+        "title": "Tableau Charts: Bump Chart | #Tableau Course #109",
+        "publishedAt": "2024-01-04T12:33:34Z",
+        "duration": "PT4M24S",
+        "viewCount": "5862",
+        "likeCount": "130",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "CiJTf8hjNqY",
+        "title": "Dynamically Highlight Line Chart Series in Tableau | #Tableau Course #108",
+        "publishedAt": "2024-01-03T11:03:33Z",
+        "duration": "PT6M",
+        "viewCount": "6153",
+        "likeCount": "122",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "wozR8j48kbg",
+        "title": "Tableau Charts: Line Charts | #Tableau Course #107",
+        "publishedAt": "2024-01-02T11:38:36Z",
+        "duration": "PT10M12S",
+        "viewCount": "8982",
+        "likeCount": "236",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "9rNxcqlDM6k",
+        "title": "Tableau Charts: Barcode Chart | #Tableau Course #106",
+        "publishedAt": "2024-01-01T12:02:33Z",
+        "duration": "PT1M7S",
+        "viewCount": "3946",
+        "likeCount": "72",
+        "commentCount": "0"
+    },
+    {
+        "video_id": "pRoI9S4Q1cw",
+        "title": "Tableau Charts: Rounded Bar Chart | #Tableau Course #112",
+        "publishedAt": "2023-12-31T12:11:38Z",
+        "duration": "PT1M56S",
+        "viewCount": "5825",
+        "likeCount": "108",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "W9AllYI3yF0",
+        "title": "Tableau Charts: Bar-in-Bar Chart | #Tableau Course #105",
+        "publishedAt": "2023-12-30T11:17:16Z",
+        "duration": "PT2M21S",
+        "viewCount": "7643",
+        "likeCount": "114",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "zqMVqpVEfWI",
+        "title": "Tableau Charts: Bar Charts | #Tableau Course #104",
+        "publishedAt": "2023-12-29T12:06:48Z",
+        "duration": "PT10M58S",
+        "viewCount": "9954",
+        "likeCount": "241",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "xhpSLW-3ajI",
+        "title": "How to Combine Charts | Dual Axis - Single Axis - Individual Axis | #Tableau Course #103",
+        "publishedAt": "2023-12-28T11:48:48Z",
+        "duration": "PT21M1S",
+        "viewCount": "24671",
+        "likeCount": "406",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "m0V_sZ_3eLE",
+        "title": "Table Calculations: DIFFERENCE | #Tableau Course #102",
+        "publishedAt": "2023-12-27T09:58:24Z",
+        "duration": "PT7M44S",
+        "viewCount": "6572",
+        "likeCount": "196",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "VkmJtVnrVsY",
+        "title": "Table Calculations: RUNNING_TOTAL | #Tableau Course #101",
+        "publishedAt": "2023-12-26T12:44:52Z",
+        "duration": "PT6M13S",
+        "viewCount": "6510",
+        "likeCount": "141",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "QtjpzFvgioU",
+        "title": "EXCLUDE Level of Detail (LOD) Expressions | #Tableau Course #98",
+        "publishedAt": "2023-12-25T11:36:27Z",
+        "duration": "PT10M42S",
+        "viewCount": "15168",
+        "likeCount": "477",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "hsOS6G6GxeA",
+        "title": "INCLUDE Level of Detail (LOD) Expressions | #Tableau Course #99",
+        "publishedAt": "2023-12-25T11:29:19Z",
+        "duration": "PT8M17S",
+        "viewCount": "16154",
+        "likeCount": "464",
+        "commentCount": "23"
+    },
+    {
+        "video_id": "NRUcIPzzayY",
+        "title": "Table Calculations: FIRST, LAST, INDEX, RANK | #Tableau Course #100",
+        "publishedAt": "2023-12-23T14:32:10Z",
+        "duration": "PT22M4S",
+        "viewCount": "15681",
+        "likeCount": "417",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "hTGRUkizGFM",
+        "title": "FIXED Level of Detail (LOD) Expressions | #Tableau Course #97",
+        "publishedAt": "2023-12-20T10:13:53Z",
+        "duration": "PT9M45S",
+        "viewCount": "24609",
+        "likeCount": "605",
+        "commentCount": "31"
+    },
+    {
+        "video_id": "wJFg6KbBXX4",
+        "title": "LOD (Level of Detail) Expressions Explained | Made Easy to Understand | #Tableau Course #96",
+        "publishedAt": "2023-12-19T09:54:45Z",
+        "duration": "PT9M5S",
+        "viewCount": "44694",
+        "likeCount": "1041",
+        "commentCount": "39"
+    },
+    {
+        "video_id": "zbStEoYwnmg",
+        "title": "ATTR ( ) - Attribute Function the Most Confusing Aggregation Explained | #Tableau Course #95",
+        "publishedAt": "2023-12-18T10:06:13Z",
+        "duration": "PT15M27S",
+        "viewCount": "8505",
+        "likeCount": "291",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "qQ5VFigLuIg",
+        "title": "Aggregate Functions: SUM, AVG, COUNT, COUNTD, MAX, MIN | #Tableau Course #94",
+        "publishedAt": "2023-12-14T10:39:46Z",
+        "duration": "PT19M24S",
+        "viewCount": "9034",
+        "likeCount": "192",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "-3AS9lrOTgY",
+        "title": "Logical Operators: AND, OR, NOT | #Tableau Course #93",
+        "publishedAt": "2023-12-13T10:31:06Z",
+        "duration": "PT16M40S",
+        "viewCount": "4349",
+        "likeCount": "165",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "AaZ-_JxjhFI",
+        "title": "Conditional Logic: IF, ELSE, ELSEIF, IIF, CASEWHEN | #Tableau Course #92",
+        "publishedAt": "2023-12-12T10:44:08Z",
+        "duration": "PT29M29S",
+        "viewCount": "7049",
+        "likeCount": "231",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "-F47R8uAV2U",
+        "title": "NULL Functions | ZN, IFNULL, ISNULL | #Tableau Course #91",
+        "publishedAt": "2023-12-11T11:43:06Z",
+        "duration": "PT13M16S",
+        "viewCount": "8217",
+        "likeCount": "275",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "OjbKjKXfzk4",
+        "title": "How to Convert Strings to Numbers in Tableau Without Losing Data \"Nulls\"",
+        "publishedAt": "2023-12-11T09:59:12Z",
+        "duration": "PT3M9S",
+        "viewCount": "12470",
+        "likeCount": "189",
+        "commentCount": "26"
+    },
+    {
+        "video_id": "sofQbf4EbfA",
+        "title": "Current Date and Time: TODAY & NOW | #Tableau Course #90",
+        "publishedAt": "2023-12-08T17:23:30Z",
+        "duration": "PT6M54S",
+        "viewCount": "5358",
+        "likeCount": "137",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "3H2FMEPfExc",
+        "title": "Date Functions: DATEDIFF, DATEADD | #Tableau Course #89",
+        "publishedAt": "2023-12-07T13:42:05Z",
+        "duration": "PT12M44S",
+        "viewCount": "6475",
+        "likeCount": "217",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "LpYZsINOZp8",
+        "title": "Date Functions: DATENAME, DATEPART, DATETRUNC, DAY | #Tableau Course #88",
+        "publishedAt": "2023-12-06T11:42:04Z",
+        "duration": "PT30M30S",
+        "viewCount": "10835",
+        "likeCount": "311",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "JYk00_Ey6NM",
+        "title": "How to use REPLACE Function | #Tableau Course #87",
+        "publishedAt": "2023-12-05T10:36:56Z",
+        "duration": "PT7M24S",
+        "viewCount": "4810",
+        "likeCount": "148",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "Vg06ly8hzjI",
+        "title": "CONCAT & SPLIT String Values | #Tableau Course #86",
+        "publishedAt": "2023-12-04T11:56:26Z",
+        "duration": "PT15M37S",
+        "viewCount": "5083",
+        "likeCount": "165",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "Cgsj-2T8RVk",
+        "title": "Pattern Search: STARTSWITH, ENDSWITH, CONTAINS, FIND, FINDNTH | #Tableau Course #85",
+        "publishedAt": "2023-11-29T14:13:32Z",
+        "duration": "PT26M30S",
+        "viewCount": "5894",
+        "likeCount": "188",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "K_230viSmVU",
+        "title": "Extract Substring: LEFT, RIGHT, MID | #Tableau Course #84",
+        "publishedAt": "2023-11-28T12:01:04Z",
+        "duration": "PT12M21S",
+        "viewCount": "5444",
+        "likeCount": "157",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "SmmCuXy1r7o",
+        "title": "Remove Spaces: LTRIM, RTRIM, TRIM | #Tableau Course #83",
+        "publishedAt": "2023-11-27T12:53:44Z",
+        "duration": "PT12M9S",
+        "viewCount": "5168",
+        "likeCount": "161",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "h2Aojx3j2Ng",
+        "title": "Change Cases: LOWER & UPPER | #Tableau Course #82",
+        "publishedAt": "2023-11-22T12:48:57Z",
+        "duration": "PT11M5S",
+        "viewCount": "5480",
+        "likeCount": "174",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "GBegzi3JK9A",
+        "title": "Round Functions: CEILING, FLOOR, ROUND | #Tableau Course #81",
+        "publishedAt": "2023-11-21T17:48:11Z",
+        "duration": "PT10M33S",
+        "viewCount": "7208",
+        "likeCount": "203",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "yqz7PQQ_fK0",
+        "title": "4 Types of Tableau Calculations: Row-Level, Aggregate, LOD & Table | #Tableau Course #80",
+        "publishedAt": "2023-11-15T12:42:16Z",
+        "duration": "PT22M34S",
+        "viewCount": "18432",
+        "likeCount": "523",
+        "commentCount": "35"
+    },
+    {
+        "video_id": "mu-4m9-NH6o",
+        "title": "Tableau Nested Calculations Explained | #Tableau Course #79",
+        "publishedAt": "2023-11-13T12:56:52Z",
+        "duration": "PT5M43S",
+        "viewCount": "9140",
+        "likeCount": "183",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "sVsbNEpvmJ4",
+        "title": "Tableau Calculations: Based Components | #Tableau Course #78",
+        "publishedAt": "2023-11-08T16:47:15Z",
+        "duration": "PT8M51S",
+        "viewCount": "10427",
+        "likeCount": "330",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "9Mhe5UFwyQg",
+        "title": "Intro to Tableau Calculations & Calculated Fields | #Tableau Course #77",
+        "publishedAt": "2023-11-07T11:55:57Z",
+        "duration": "PT11M18S",
+        "viewCount": "27231",
+        "likeCount": "501",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "jEJYlcZuWH0",
+        "title": "How To Choose The Correct Trigger In Tabeau Actions | #Tableau Course #76",
+        "publishedAt": "2023-11-02T12:44:40Z",
+        "duration": "PT1M59S",
+        "viewCount": "6281",
+        "likeCount": "143",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "xjk7sWEFm1w",
+        "title": "Tableau Parameter Actions | #Tableau Course #75",
+        "publishedAt": "2023-10-31T10:44:26Z",
+        "duration": "PT5M55S",
+        "viewCount": "34032",
+        "likeCount": "390",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "jN13nXAkqNI",
+        "title": "Tableau Set Actions | #Tableau Course #74",
+        "publishedAt": "2023-10-30T11:26:45Z",
+        "duration": "PT6M54S",
+        "viewCount": "14193",
+        "likeCount": "192",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "kRWn2JSC45w",
+        "title": "Tableau Highlight Actions in Dashboards | #Tableau Course #73",
+        "publishedAt": "2023-10-26T10:15:35Z",
+        "duration": "PT4M53S",
+        "viewCount": "14862",
+        "likeCount": "201",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "yC99QQo_vhg",
+        "title": "Tableau Filter and Quick Actions | #Tableau Course #72",
+        "publishedAt": "2023-10-24T11:33:41Z",
+        "duration": "PT7M1S",
+        "viewCount": "16648",
+        "likeCount": "234",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "b_uoyFkYFA8",
+        "title": "Tableau \"Go to Sheet\" Actions | #Tableau Course #71",
+        "publishedAt": "2023-10-23T12:27:57Z",
+        "duration": "PT1M58S",
+        "viewCount": "15216",
+        "likeCount": "162",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "3V2CqUcSCYU",
+        "title": "Tableau Actions: Go To URL | #Tableau Course #70",
+        "publishedAt": "2023-10-19T10:15:14Z",
+        "duration": "PT6M26S",
+        "viewCount": "16502",
+        "likeCount": "215",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "-QB7u4gHXnw",
+        "title": "Tableau Actions: Unlock the Power of Interaction | #Tableau Course #69",
+        "publishedAt": "2023-10-17T15:26:31Z",
+        "duration": "PT3M5S",
+        "viewCount": "8899",
+        "likeCount": "148",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "V72ib3asw3E",
+        "title": "Dynamic Bins & Histograms using Parameters | #Tableau Course #68",
+        "publishedAt": "2023-10-16T13:56:53Z",
+        "duration": "PT3M36S",
+        "viewCount": "8062",
+        "likeCount": "172",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "AyJ2mgOGq1Y",
+        "title": "Dynamic Titles & Texts using Parameters | #Tableau Course #67",
+        "publishedAt": "2023-10-12T10:48:06Z",
+        "duration": "PT3M10S",
+        "viewCount": "11035",
+        "likeCount": "193",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "zDHiKOYluqQ",
+        "title": "Swap Multiple Measures/Dimensions using Parameters | #Tableau Course #66",
+        "publishedAt": "2023-10-10T11:18:12Z",
+        "duration": "PT10M33S",
+        "viewCount": "15751",
+        "likeCount": "411",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "EvBxsM6wlnM",
+        "title": "Dynamic Filters using Parameters | #Tableau Course #65",
+        "publishedAt": "2023-10-06T09:59:32Z",
+        "duration": "PT4M5S",
+        "viewCount": "19139",
+        "likeCount": "214",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "rAG1JEzOpNY",
+        "title": "Dynamic Reference Lines using Parameters | #Tableau Course #64",
+        "publishedAt": "2023-10-03T13:28:50Z",
+        "duration": "PT2M",
+        "viewCount": "10444",
+        "likeCount": "175",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "sfZMDwmeVyY",
+        "title": "Dynamic Calculations using Parameters: Create Dynamic KPIs | #Tableau Course #63",
+        "publishedAt": "2023-09-29T14:18:53Z",
+        "duration": "PT6M41S",
+        "viewCount": "15319",
+        "likeCount": "381",
+        "commentCount": "21"
+    },
+    {
+        "video_id": "fmJXGW3ApFA",
+        "title": "The Dynamic Magic of Tableau Parameters | #Tableau Course #62",
+        "publishedAt": "2023-09-26T10:03:57Z",
+        "duration": "PT2M41S",
+        "viewCount": "13247",
+        "likeCount": "211",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "Tp3FTpcAntg",
+        "title": "How to Sort Your Data in Tableau | #Tableau Course #61",
+        "publishedAt": "2023-09-20T10:36:13Z",
+        "duration": "PT17M42S",
+        "viewCount": "9349",
+        "likeCount": "216",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "lnQ1KWVkL_M",
+        "title": "Tableau Filters Best Practices | Top 10 Tips and Tricks | #Tableau Course #60",
+        "publishedAt": "2023-09-18T09:55:54Z",
+        "duration": "PT17M32S",
+        "viewCount": "8504",
+        "likeCount": "243",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "GFkmhWKhljk",
+        "title": "How to Customize Filters | #Tableau Course #59",
+        "publishedAt": "2023-09-12T07:33:44Z",
+        "duration": "PT31M3S",
+        "viewCount": "13050",
+        "likeCount": "266",
+        "commentCount": "19"
+    },
+    {
+        "video_id": "uaM_KCu2nPk",
+        "title": "How to Create Tableau Filters | #Tableau Course #58",
+        "publishedAt": "2023-09-04T15:49:05Z",
+        "duration": "PT25M17S",
+        "viewCount": "22846",
+        "likeCount": "473",
+        "commentCount": "42"
+    },
+    {
+        "video_id": "7gLlCl01Cfw",
+        "title": "Concept of Tableau Filters & their Use Cases | #Tableau Course #57",
+        "publishedAt": "2023-08-28T10:17:26Z",
+        "duration": "PT12M40S",
+        "viewCount": "24092",
+        "likeCount": "493",
+        "commentCount": "26"
+    },
+    {
+        "video_id": "IEFbDXvvT9I",
+        "title": "Tableau Bins & Histograms: Unlocking Data Distribution | #Tableau Course #56",
+        "publishedAt": "2023-07-21T17:05:22Z",
+        "duration": "PT11M40S",
+        "viewCount": "19254",
+        "likeCount": "407",
+        "commentCount": "19"
+    },
+    {
+        "video_id": "iakxf4p3TUU",
+        "title": "Tableau Sets Explained: The Ultimate Guide | #Tableau Course #55",
+        "publishedAt": "2023-07-19T17:23:58Z",
+        "duration": "PT26M5S",
+        "viewCount": "16682",
+        "likeCount": "395",
+        "commentCount": "26"
+    },
+    {
+        "video_id": "nNTlrpZMxCs",
+        "title": "Tableau Clusters: Uncover Patterns and Trends| #Tableau Course #54",
+        "publishedAt": "2023-07-18T10:43:33Z",
+        "duration": "PT10M55S",
+        "viewCount": "12318",
+        "likeCount": "335",
+        "commentCount": "19"
+    },
+    {
+        "video_id": "smhSEm_RIUA",
+        "title": "Tableau Groups: How to Group Dimension Values | #Tableau Course #53",
+        "publishedAt": "2023-07-12T12:04:43Z",
+        "duration": "PT14M23S",
+        "viewCount": "16193",
+        "likeCount": "372",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "cGbSupolymQ",
+        "title": "Tableau Hierarchy: the Power of Drill Down & Drill Up | #Tableau Course #52",
+        "publishedAt": "2023-06-14T08:11:21Z",
+        "duration": "PT19M45S",
+        "viewCount": "17476",
+        "likeCount": "425",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "EpzR-Zz24Pk",
+        "title": "Tableau Aliases: How to Rename Values of Dimensions | #Tableau Course #51",
+        "publishedAt": "2023-06-09T08:17:02Z",
+        "duration": "PT9M39S",
+        "viewCount": "9346",
+        "likeCount": "265",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "LoeMpRT3ivo",
+        "title": "How to Rename Columns & Tables | #Tableau Course #50",
+        "publishedAt": "2023-06-08T08:29:07Z",
+        "duration": "PT11M30S",
+        "viewCount": "10243",
+        "likeCount": "260",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "JFPMkieTfr4",
+        "title": "5 Naming Conventions Every Developer Should know | #Tableau Course #49",
+        "publishedAt": "2023-06-07T16:56:43Z",
+        "duration": "PT11M55S",
+        "viewCount": "7389",
+        "likeCount": "249",
+        "commentCount": "13"
+    },
+    {
+        "video_id": "RvrO7vkcpB0",
+        "title": "Tableau Data Types vs Dimension & Measure vs Discrete & Continuous | #Tableau Course #48",
+        "publishedAt": "2023-05-30T18:10:57Z",
+        "duration": "PT2M",
+        "viewCount": "8570",
+        "likeCount": "190",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "TIOCF6UZKpU",
+        "title": "Tableau Discrete and Continuous Visually Explained | #Tableau Course #47",
+        "publishedAt": "2023-05-25T13:03:46Z",
+        "duration": "PT16M16S",
+        "viewCount": "11664",
+        "likeCount": "444",
+        "commentCount": "36"
+    },
+    {
+        "video_id": "FhAxE2pkCKA",
+        "title": "Tableau Dimensions and Measures EXPLAINED | #Tableau Course #46",
+        "publishedAt": "2023-05-24T14:59:00Z",
+        "duration": "PT19M27S",
+        "viewCount": "18667",
+        "likeCount": "613",
+        "commentCount": "46"
+    },
+    {
+        "video_id": "GnINEje8jME",
+        "title": "The Power of Tableau's Geographic and Image Roles | #Tableau Course #45",
+        "publishedAt": "2023-05-24T09:32:20Z",
+        "duration": "PT5M21S",
+        "viewCount": "7432",
+        "likeCount": "153",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "ml8piih18-w",
+        "title": "Tableau Data Types: A Comprehensive Guide | #Tableau Course #44",
+        "publishedAt": "2023-05-23T09:50:58Z",
+        "duration": "PT18M36S",
+        "viewCount": "10446",
+        "likeCount": "428",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "0oYXJ5Ax1QA",
+        "title": "Introduction to Tableau Metadata | #Tableau Course #43",
+        "publishedAt": "2023-05-22T12:12:58Z",
+        "duration": "PT2M29S",
+        "viewCount": "10253",
+        "likeCount": "178",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "hG-2sQm7J-A",
+        "title": "Tableau Data Source: Essential Best Practices | #Tableau Course #42",
+        "publishedAt": "2023-05-19T20:10:09Z",
+        "duration": "PT9M38S",
+        "viewCount": "16643",
+        "likeCount": "441",
+        "commentCount": "25"
+    },
+    {
+        "video_id": "FACIU67GE3I",
+        "title": "JOIN vs UNION vs RELATION vs BLENDING | #Tableau Course #41",
+        "publishedAt": "2023-05-18T10:44:33Z",
+        "duration": "PT3M52S",
+        "viewCount": "17785",
+        "likeCount": "361",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "eFbcuHsAWhs",
+        "title": "Tableau Joins vs Relationships: Understanding the Key Differences | #Tableau Course #40",
+        "publishedAt": "2023-05-08T16:28:43Z",
+        "duration": "PT5M59S",
+        "viewCount": "21645",
+        "likeCount": "337",
+        "commentCount": "18"
+    },
+    {
+        "video_id": "Aa3qVaw7u_o",
+        "title": "Tableau Joins vs Data Blending: Understanding the Key Differences | #Tableau Course #39",
+        "publishedAt": "2023-05-05T10:07:12Z",
+        "duration": "PT4M15S",
+        "viewCount": "25040",
+        "likeCount": "489",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "0jItqop8ZYQ",
+        "title": "Tableau Join vs Union: Understanding the Key Differences | #Tableau Course #38",
+        "publishedAt": "2023-05-04T14:44:53Z",
+        "duration": "PT1M5S",
+        "viewCount": "13772",
+        "likeCount": "207",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "4N4Ft7MEW3Y",
+        "title": "Tableau Data Blending: Combining Multiple Data Sources | #Tableau Course #37",
+        "publishedAt": "2023-05-03T11:52:43Z",
+        "duration": "PT7M49S",
+        "viewCount": "60235",
+        "likeCount": "1044",
+        "commentCount": "60"
+    },
+    {
+        "video_id": "UgeEVkQ93t4",
+        "title": "Tableau Relationships: Fast and Flexible Way to Connect Tables | #Tableau Course #36",
+        "publishedAt": "2023-04-28T10:04:19Z",
+        "duration": "PT18M15S",
+        "viewCount": "27629",
+        "likeCount": "693",
+        "commentCount": "74"
+    },
+    {
+        "video_id": "DUNccXcuOOs",
+        "title": "Tableau Union: How to Merge Tables in Tableau | #Tableau Course #35",
+        "publishedAt": "2023-04-27T11:55:38Z",
+        "duration": "PT7M47S",
+        "viewCount": "20261",
+        "likeCount": "321",
+        "commentCount": "27"
+    },
+    {
+        "video_id": "F2szczrXXqQ",
+        "title": "Tableau Joins: Inner, Left, Right, Full Join | #Tableau Course #34",
+        "publishedAt": "2023-04-26T09:51:28Z",
+        "duration": "PT9M31S",
+        "viewCount": "28745",
+        "likeCount": "517",
+        "commentCount": "19"
+    },
+    {
+        "video_id": "2gMTJBzVnXg",
+        "title": "Tableau Data Modeling and Layers (Physical & Logical) | #Tableau Course #33",
+        "publishedAt": "2023-04-25T14:53:59Z",
+        "duration": "PT6M5S",
+        "viewCount": "28235",
+        "likeCount": "805",
+        "commentCount": "33"
+    },
+    {
+        "video_id": "DlBUuWBfnTs",
+        "title": "Data Modeling Basics | #Tableau Course #32",
+        "publishedAt": "2023-04-24T18:21:35Z",
+        "duration": "PT7M3S",
+        "viewCount": "32246",
+        "likeCount": "872",
+        "commentCount": "46"
+    },
+    {
+        "video_id": "7cZNrr1EuUY",
+        "title": "THANK YOU for 1000 Subscribers!",
+        "publishedAt": "2023-04-23T14:43:05Z",
+        "duration": "PT30S",
+        "viewCount": "4883",
+        "likeCount": "375",
+        "commentCount": "35"
+    },
+    {
+        "video_id": "L3O3uOhWCgs",
+        "title": "Beginner's Guide to Tableau | Tour of the Tableau Interface | #Tableau Course #31",
+        "publishedAt": "2023-04-18T12:15:22Z",
+        "duration": "PT14M50S",
+        "viewCount": "16545",
+        "likeCount": "498",
+        "commentCount": "31"
+    },
+    {
+        "video_id": "y-8CO46b4lw",
+        "title": "Publishing Tableau VIZ to Tableau Public | #Tableau Course #30",
+        "publishedAt": "2023-04-17T12:26:55Z",
+        "duration": "PT2M45S",
+        "viewCount": "11658",
+        "likeCount": "194",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "01MEhI8Oyeo",
+        "title": "Get Free Training Datasets for Tableau & PowerBI | #Tableau Course #29",
+        "publishedAt": "2023-04-13T18:20:55Z",
+        "duration": "PT5M28S",
+        "viewCount": "21876",
+        "likeCount": "496",
+        "commentCount": "35"
+    },
+    {
+        "video_id": "EMssnv8XNv8",
+        "title": "Create Tableau Public Account To Publish Your VIZ (FREE) | #Tableau Course #28",
+        "publishedAt": "2023-04-13T14:38:50Z",
+        "duration": "PT1M48S",
+        "viewCount": "39653",
+        "likeCount": "289",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "r4bE68kbJKI",
+        "title": "How To Download & Install Tableau (FREE) | #Tableau Course #27",
+        "publishedAt": "2023-04-10T13:26:29Z",
+        "duration": "PT1M48S",
+        "viewCount": "255843",
+        "likeCount": "1837",
+        "commentCount": "56"
+    },
+    {
+        "video_id": "UMABkyumQ8s",
+        "title": "Tableau Architecture: Public Components & Limitations | #Tableau Course #26",
+        "publishedAt": "2023-04-03T12:24:13Z",
+        "duration": "PT3M53S",
+        "viewCount": "6176",
+        "likeCount": "143",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "UKXIdVT4eNg",
+        "title": "Tableau Architecture: Server Components | #Tableau Course #25",
+        "publishedAt": "2023-03-27T16:40:48Z",
+        "duration": "PT12M1S",
+        "viewCount": "12940",
+        "likeCount": "378",
+        "commentCount": "30"
+    },
+    {
+        "video_id": "Kvy7NTeV6No",
+        "title": "Tableau Server: Access View Process | #Tableau Course #24",
+        "publishedAt": "2023-03-23T15:23:07Z",
+        "duration": "PT5M6S",
+        "viewCount": "8329",
+        "likeCount": "176",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "HcQ7CioOjW8",
+        "title": "Tableau Server: Authentication Process | #Tableau Course #23",
+        "publishedAt": "2023-03-22T17:49:00Z",
+        "duration": "PT2M3S",
+        "viewCount": "10241",
+        "likeCount": "154",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "VTFk_sXNMAI",
+        "title": "Tableau Server: Publish Process | #Tableau Course #22",
+        "publishedAt": "2023-03-20T11:05:50Z",
+        "duration": "PT2M2S",
+        "viewCount": "11674",
+        "likeCount": "176",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "FotZEYMIEwo",
+        "title": "Tableau Architecture: Desktop Components | #Tableau Course #21",
+        "publishedAt": "2023-03-18T18:14:10Z",
+        "duration": "PT8M28S",
+        "viewCount": "18349",
+        "likeCount": "518",
+        "commentCount": "18"
+    },
+    {
+        "video_id": "4qExQ_GK4lk",
+        "title": "Tableau File Types: TWB, TWBX, TDS, TDSX, HYPER | #Tableau Course #20",
+        "publishedAt": "2023-03-17T12:35:19Z",
+        "duration": "PT5M7S",
+        "viewCount": "15921",
+        "likeCount": "301",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "AFfulR-SRMc",
+        "title": "Tableau Live vs Extract | #Tableau Course #19",
+        "publishedAt": "2023-03-16T15:08:18Z",
+        "duration": "PT2M41S",
+        "viewCount": "19394",
+        "likeCount": "290",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "Xi1tX2sBF5c",
+        "title": "Tableau Server vs Cloud vs Public vs Reader vs Mobile | #Tableau Course #18",
+        "publishedAt": "2023-03-15T13:34:03Z",
+        "duration": "PT4M28S",
+        "viewCount": "8577",
+        "likeCount": "276",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "Njz_CxpRA6M",
+        "title": "Tableau Reader & Mobile Explained | #Tableau Course #17",
+        "publishedAt": "2023-03-14T14:30:14Z",
+        "duration": "PT2M51S",
+        "viewCount": "8788",
+        "likeCount": "141",
+        "commentCount": "3"
+    },
+    {
+        "video_id": "tIp2E3Lthg4",
+        "title": "What is Tableau Public? | #Tableau Course #16",
+        "publishedAt": "2023-03-11T11:38:25Z",
+        "duration": "PT3M13S",
+        "viewCount": "8680",
+        "likeCount": "153",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "yXCHWjqF7Jo",
+        "title": "Tableau Server & Cloud Explained | #Tableau Course #15",
+        "publishedAt": "2023-03-10T11:12:28Z",
+        "duration": "PT3M7S",
+        "viewCount": "19639",
+        "likeCount": "239",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "Om9qJxbieAM",
+        "title": "Hosting Tableau: On-Prem vs IaaS vs SaaS | #Tableau Course #14",
+        "publishedAt": "2023-03-02T17:20:48Z",
+        "duration": "PT6M52S",
+        "viewCount": "10952",
+        "likeCount": "348",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "WvX47JcAy4M",
+        "title": "Tableau Sharing Products & Process | #Tableau Course #13",
+        "publishedAt": "2023-03-01T15:19:51Z",
+        "duration": "PT2M58S",
+        "viewCount": "11128",
+        "likeCount": "209",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "Yc7Z5FMhU1A",
+        "title": "Tableau Desktop vs Public vs PREP | #Tableau Course #12",
+        "publishedAt": "2023-02-28T14:58:16Z",
+        "duration": "PT3M54S",
+        "viewCount": "14700",
+        "likeCount": "453",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "6Re9IlO2X5E",
+        "title": "What is Tableau PREP? | #Tableau Course #11",
+        "publishedAt": "2023-02-27T14:10:59Z",
+        "duration": "PT2M31S",
+        "viewCount": "18129",
+        "likeCount": "235",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "9GzsAZ6fBKg",
+        "title": "What is Tableau Public Desktop? | #Tableau Course #10",
+        "publishedAt": "2023-02-24T15:09:16Z",
+        "duration": "PT1M30S",
+        "viewCount": "11993",
+        "likeCount": "172",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "62KVj07bpSM",
+        "title": "What is Tableau Desktop? | #Tableau Course #9",
+        "publishedAt": "2023-02-23T15:08:41Z",
+        "duration": "PT2M16S",
+        "viewCount": "13121",
+        "likeCount": "200",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "I1NZSaJNQwo",
+        "title": "Tableau Development Products & Process | #Tableau Course #8",
+        "publishedAt": "2023-02-22T15:16:38Z",
+        "duration": "PT3M49S",
+        "viewCount": "13253",
+        "likeCount": "277",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "pb1q7XhMs0U",
+        "title": "Top 4 Reasons Why Tableau is LEADER in Visualization | #Tableau Course #7",
+        "publishedAt": "2023-02-21T14:45:23Z",
+        "duration": "PT5M48S",
+        "viewCount": "12456",
+        "likeCount": "408",
+        "commentCount": "23"
+    },
+    {
+        "video_id": "CNJPuGi4mPk",
+        "title": "What is Tableau? | #Tableau Course #6",
+        "publishedAt": "2023-02-20T14:38:46Z",
+        "duration": "PT2M59S",
+        "viewCount": "13277",
+        "likeCount": "245",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "ce3jlsS92n4",
+        "title": "Top 3 Tools for Data Visualization | #Tableau Course #5",
+        "publishedAt": "2023-02-17T16:00:22Z",
+        "duration": "PT1M17S",
+        "viewCount": "11961",
+        "likeCount": "204",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "TDH0dAB_qZA",
+        "title": "STOP using Excel: 6 Reasons to Switch to BI Tools | #Tableau Course #4",
+        "publishedAt": "2023-02-17T07:47:02Z",
+        "duration": "PT9M52S",
+        "viewCount": "14071",
+        "likeCount": "452",
+        "commentCount": "19"
+    },
+    {
+        "video_id": "EPvW2pkNhX4",
+        "title": "The Power of Data Visualization | #Tableau Course #3",
+        "publishedAt": "2023-02-16T16:30:25Z",
+        "duration": "PT3M35S",
+        "viewCount": "14545",
+        "likeCount": "265",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "Vfr_Wu514Qo",
+        "title": "What is Business Intelligence (BI)? | #Tableau Course #2",
+        "publishedAt": "2023-02-14T15:51:24Z",
+        "duration": "PT3M11S",
+        "viewCount": "19393",
+        "likeCount": "368",
+        "commentCount": "26"
+    },
+    {
+        "video_id": "3yqZ7lyOdsw",
+        "title": "Data Buzzwords: BIG Data, IoT, Data Science and More | #Tableau Course #1",
+        "publishedAt": "2023-02-13T15:55:28Z",
+        "duration": "PT9M20S",
+        "viewCount": "26559",
+        "likeCount": "746",
+        "commentCount": "35"
+    },
+    {
+        "video_id": "_TT1D3tH1_c",
+        "title": "Complete Roadmap To Master Tableau",
+        "publishedAt": "2023-02-06T16:45:45Z",
+        "duration": "PT3M55S",
+        "viewCount": "122100",
+        "likeCount": "1842",
+        "commentCount": "84"
+    },
+    {
+        "video_id": "LJLNfei4i-c",
+        "title": "ChatGPT Tutorial for Beginners [Ultimate Full Course] - From Zero to Hero",
+        "publishedAt": "2023-02-05T17:25:29Z",
+        "duration": "PT1H16M8S",
+        "viewCount": "8474",
+        "likeCount": "236",
+        "commentCount": "22"
+    },
+    {
+        "video_id": "0OLGTG3rICQ",
+        "title": "ChatGPT Writing Tutorial: How to Write a Book from Scratch (9 Must-Know Prompts)",
+        "publishedAt": "2023-01-29T17:54:53Z",
+        "duration": "PT10M50S",
+        "viewCount": "1875",
+        "likeCount": "51",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "2OmPfxuGBKE",
+        "title": "Using ChatGPT to Make YouTube Videos [Step-By-Step Guide]",
+        "publishedAt": "2023-01-26T16:15:29Z",
+        "duration": "PT17M31S",
+        "viewCount": "2375",
+        "likeCount": "93",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "z6DAe_YIGJA",
+        "title": "ChatGPT Tutorial For Developers - A Game-Changer for Productivity",
+        "publishedAt": "2023-01-25T10:53:14Z",
+        "duration": "PT16M9S",
+        "viewCount": "3433",
+        "likeCount": "122",
+        "commentCount": "18"
+    },
+    {
+        "video_id": "ARZxd9ofDuU",
+        "title": "10 Must-Know ChatGPT Prompts for Job Seekers - ChatGPT Tutorial",
+        "publishedAt": "2023-01-24T15:36:32Z",
+        "duration": "PT17M1S",
+        "viewCount": "4813",
+        "likeCount": "132",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "aJK-Qfv2ZbU",
+        "title": "What is ChatGPT? - Understanding the Basics - ChatGPT Tutorial",
+        "publishedAt": "2023-01-23T15:00:01Z",
+        "duration": "PT13M33S",
+        "viewCount": "13429",
+        "likeCount": "234",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "wsnAY6m5Q9M",
+        "title": "SQL Bootcamp: 50 SQL Queries and a Sample Dataset - SQL Tutorial for Beginners",
+        "publishedAt": "2023-01-19T17:15:02Z",
+        "duration": "PT1H23M29S",
+        "viewCount": "10964",
+        "likeCount": "521",
+        "commentCount": "23"
+    },
+    {
+        "video_id": "Rt51AMru0Uo",
+        "title": "SQL for Beginners: Learn DDL with Create, Alter, and Drop Tables",
+        "publishedAt": "2023-01-19T11:05:17Z",
+        "duration": "PT13M23S",
+        "viewCount": "591",
+        "likeCount": "16",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "YOjy9rpneNY",
+        "title": "SQL Data Manipulation: INSERT, UPDATE, DELETE Explained - SQL Tutorial for Beginners",
+        "publishedAt": "2023-01-19T11:04:52Z",
+        "duration": "PT25M51S",
+        "viewCount": "4282",
+        "likeCount": "91",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "_uxxtaMw7rw",
+        "title": "SQL JOINS Explained - SQL Tutorial for Beginners with Examples - Inner, Left, Right, Full",
+        "publishedAt": "2023-01-19T10:39:55Z",
+        "duration": "PT37M22S",
+        "viewCount": "4073",
+        "likeCount": "124",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "y37SRYTChBM",
+        "title": "SQL DROP TABLE - Delete Tables From Database - SQL Tutorial #37",
+        "publishedAt": "2023-01-18T15:00:42Z",
+        "duration": "PT2M8S",
+        "viewCount": "2923",
+        "likeCount": "93",
+        "commentCount": "12"
+    },
+    {
+        "video_id": "-kEpCoac2NE",
+        "title": "SQL ALTER TABLE - Modify the Table Struncture - SQL Tutorial #36",
+        "publishedAt": "2023-01-18T13:00:00Z",
+        "duration": "PT2M11S",
+        "viewCount": "2624",
+        "likeCount": "58",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "M1AhPg5H1nQ",
+        "title": "SQL CREATE TABLE - SQL Tutorial #35",
+        "publishedAt": "2023-01-17T23:00:21Z",
+        "duration": "PT10M25S",
+        "viewCount": "5686",
+        "likeCount": "155",
+        "commentCount": "30"
+    },
+    {
+        "video_id": "K0JLPJ0vKos",
+        "title": "SQL DELETE - Delete Data from Database - SQL Tutorial #34",
+        "publishedAt": "2023-01-17T13:00:19Z",
+        "duration": "PT4M59S",
+        "viewCount": "4558",
+        "likeCount": "127",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "RGrYcBMf70Q",
+        "title": "SQL Update - Modify Data in Database - SQL Tutorial #33",
+        "publishedAt": "2023-01-16T23:00:24Z",
+        "duration": "PT6M14S",
+        "viewCount": "4641",
+        "likeCount": "146",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "6X86ilxPPc8",
+        "title": "SQL INSERT - Inserting data into Database - SQL Tutorial #32",
+        "publishedAt": "2023-01-16T15:00:08Z",
+        "duration": "PT15M14S",
+        "viewCount": "5669",
+        "likeCount": "150",
+        "commentCount": "4"
+    },
+    {
+        "video_id": "sP6MCZ9patk",
+        "title": "SQL Subquery using EXISTS and IN - SQL Tutorial #31",
+        "publishedAt": "2023-01-16T13:00:29Z",
+        "duration": "PT10M13S",
+        "viewCount": "17611",
+        "likeCount": "447",
+        "commentCount": "19"
+    },
+    {
+        "video_id": "O9hORRFxV-A",
+        "title": "SQL HAVING Clause - SQL Tutorial #30",
+        "publishedAt": "2023-01-15T23:00:11Z",
+        "duration": "PT6M9S",
+        "viewCount": "8548",
+        "likeCount": "239",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "Y4GH8oNPTjY",
+        "title": "SQL GROUP BY Clause - SQL Tutorial #29",
+        "publishedAt": "2023-01-15T17:00:20Z",
+        "duration": "PT8M50S",
+        "viewCount": "11235",
+        "likeCount": "276",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "W5YA5B2RQBU",
+        "title": "SQL String Functions - Manipulate String Values - SQL Tutorial #28",
+        "publishedAt": "2023-01-15T15:00:17Z",
+        "duration": "PT13M14S",
+        "viewCount": "8174",
+        "likeCount": "209",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "wIljdjni_dc",
+        "title": "SQL Aggregate Functions: COUNT, SUM, AVG, MAX, MIN - SQL Tutorial #27",
+        "publishedAt": "2023-01-15T13:00:29Z",
+        "duration": "PT12M34S",
+        "viewCount": "8303",
+        "likeCount": "191",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "dPYHNsZEuuQ",
+        "title": "Difference Between SQL Joins, Union, and Union All - SQL Tutorial #26",
+        "publishedAt": "2023-01-14T23:00:25Z",
+        "duration": "PT10M33S",
+        "viewCount": "12799",
+        "likeCount": "334",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "XpBkXo3DCEg",
+        "title": "SQL FULL OUTER JOIN - SQL Tutorial #25",
+        "publishedAt": "2023-01-14T15:00:21Z",
+        "duration": "PT4M28S",
+        "viewCount": "24000",
+        "likeCount": "338",
+        "commentCount": "13"
+    },
+    {
+        "video_id": "T5VKCXJaIfM",
+        "title": "SQL RIGHT JOIN - SQL Tutorial #24",
+        "publishedAt": "2023-01-14T13:00:15Z",
+        "duration": "PT2M52S",
+        "viewCount": "6587",
+        "likeCount": "164",
+        "commentCount": "5"
+    },
+    {
+        "video_id": "giKwmtsz1U8",
+        "title": "SQL LEFT JOIN - SQL Tutorial #23",
+        "publishedAt": "2023-01-13T23:00:21Z",
+        "duration": "PT3M31S",
+        "viewCount": "16040",
+        "likeCount": "347",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "v7cTKaMj3B8",
+        "title": "SQL INNER JOIN - SQL Tutorial #22",
+        "publishedAt": "2023-01-13T15:00:40Z",
+        "duration": "PT8M43S",
+        "viewCount": "10541",
+        "likeCount": "274",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "FY6uFn1xPbg",
+        "title": "SQL Alias - AS Statement - SQL Tutorial #21",
+        "publishedAt": "2023-01-13T13:00:16Z",
+        "duration": "PT4M7S",
+        "viewCount": "11732",
+        "likeCount": "257",
+        "commentCount": "13"
+    },
+    {
+        "video_id": "SZCmhF81Jmg",
+        "title": "SQL JOINS  Explained - Concept of Combining Data - SQL Tutorial #20",
+        "publishedAt": "2023-01-12T23:00:13Z",
+        "duration": "PT5M4S",
+        "viewCount": "8536",
+        "likeCount": "203",
+        "commentCount": "14"
+    },
+    {
+        "video_id": "8EDUNE6cTMw",
+        "title": "SQL Like Operator - Searching and Filtering Data - SQL Tutorial #19",
+        "publishedAt": "2023-01-12T15:00:09Z",
+        "duration": "PT12M50S",
+        "viewCount": "7187",
+        "likeCount": "229",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "bYt75vnb2pY",
+        "title": "SQL IN Operator - Filter Data in a Set of Values - SQL Tutorial #18",
+        "publishedAt": "2023-01-12T13:00:23Z",
+        "duration": "PT5M3S",
+        "viewCount": "6662",
+        "likeCount": "175",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "YuUGV3eYiD0",
+        "title": "SQL BETWEEN - Filtering Data within a Rang - SQL Tutorial #17",
+        "publishedAt": "2023-01-11T23:00:30Z",
+        "duration": "PT6M34S",
+        "viewCount": "6902",
+        "likeCount": "167",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "IYEuQBHnaW8",
+        "title": "SQL Logical Operators: AND, OR, NOT Explained - SQL Tutorial #16",
+        "publishedAt": "2023-01-11T15:00:16Z",
+        "duration": "PT11M53S",
+        "viewCount": "9297",
+        "likeCount": "253",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "6sog_BqM-dg",
+        "title": "SQL Comparison Operators Explained - SQL Tutorial #15",
+        "publishedAt": "2023-01-11T13:00:04Z",
+        "duration": "PT7M27S",
+        "viewCount": "7555",
+        "likeCount": "184",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "a-AwHLQpaPM",
+        "title": "SQL WHERE - Filtering Query Results - SQL Tutorial #14",
+        "publishedAt": "2023-01-10T23:00:00Z",
+        "duration": "PT6M43S",
+        "viewCount": "7883",
+        "likeCount": "202",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "q_zD7vmNDZw",
+        "title": "SQL ORDER BY - Sort your Results - SQL Tutorial #13",
+        "publishedAt": "2023-01-10T15:00:25Z",
+        "duration": "PT9M33S",
+        "viewCount": "9032",
+        "likeCount": "230",
+        "commentCount": "7"
+    },
+    {
+        "video_id": "7Khm900vYNs",
+        "title": "SQL DISTINCT - Remove Duplicate Rows - SQL Tutorial #12",
+        "publishedAt": "2023-01-10T13:00:05Z",
+        "duration": "PT3M41S",
+        "viewCount": "10308",
+        "likeCount": "231",
+        "commentCount": "13"
+    },
+    {
+        "video_id": "082lfHzdTe8",
+        "title": "SQL SELECT statement Explained - SQL Tutorial #11",
+        "publishedAt": "2023-01-09T23:00:00Z",
+        "duration": "PT7M51S",
+        "viewCount": "11759",
+        "likeCount": "246",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "3OD0_hb1C38",
+        "title": "Top 3 Simple Rules for a Professional SQL coding Style  - SQL Tutorial #10",
+        "publishedAt": "2023-01-09T15:00:03Z",
+        "duration": "PT5M3S",
+        "viewCount": "11109",
+        "likeCount": "273",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "GDCSgXuWKvw",
+        "title": "Install Database and Dataset to Practice SQL - SQL Tutorial #9",
+        "publishedAt": "2023-01-09T13:00:06Z",
+        "duration": "PT4M59S",
+        "viewCount": "11935",
+        "likeCount": "211",
+        "commentCount": "26"
+    },
+    {
+        "video_id": "gPxiIBa59ZY",
+        "title": "MySQL Workbench: Interface Tour - SQL Tutorial #8",
+        "publishedAt": "2023-01-08T23:00:29Z",
+        "duration": "PT5M52S",
+        "viewCount": "17238",
+        "likeCount": "299",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "vCWIQSMQYew",
+        "title": "Download and Install MySQL: Step-by-Step Instructions - SQL Tutorial #7",
+        "publishedAt": "2023-01-08T15:00:34Z",
+        "duration": "PT6M13S",
+        "viewCount": "12979",
+        "likeCount": "219",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "8__c9MeC0Tw",
+        "title": "The Basic Elements of SQL Statement - SQL Tutorial #6",
+        "publishedAt": "2023-01-08T13:00:06Z",
+        "duration": "PT4M55S",
+        "viewCount": "12499",
+        "likeCount": "321",
+        "commentCount": "16"
+    },
+    {
+        "video_id": "BxZOqy3Bnl0",
+        "title": "Types of SQL Commands (DDL, DQL, DML, DCL, TCL) - SQL Tutorial #5",
+        "publishedAt": "2023-01-07T23:00:04Z",
+        "duration": "PT4M50S",
+        "viewCount": "27121",
+        "likeCount": "658",
+        "commentCount": "15"
+    },
+    {
+        "video_id": "WAQQnb3fkLM",
+        "title": "Understanding SQL Tables: Components and Structure - SQL Tutorial #4",
+        "publishedAt": "2023-01-07T15:00:28Z",
+        "duration": "PT3M12S",
+        "viewCount": "13461",
+        "likeCount": "332",
+        "commentCount": "11"
+    },
+    {
+        "video_id": "oWTtxgERvo4",
+        "title": "How Databases Organize Data? - SQL Tutorial #3",
+        "publishedAt": "2023-01-07T13:00:24Z",
+        "duration": "PT4M26S",
+        "viewCount": "15023",
+        "likeCount": "402",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "g4_08xS_rVQ",
+        "title": "5 Reasons Why Everyone Should Learn SQL -  SQL Tutorial #2",
+        "publishedAt": "2023-01-06T23:00:22Z",
+        "duration": "PT4M35S",
+        "viewCount": "13961",
+        "likeCount": "384",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "gytW3Uxg5FY",
+        "title": "SQL Roadmap For Beginners - SQL Course Curriculum",
+        "publishedAt": "2023-01-05T23:00:21Z",
+        "duration": "PT2M",
+        "viewCount": "27627",
+        "likeCount": "522",
+        "commentCount": "22"
+    },
+    {
+        "video_id": "9vVqYcwIGzo",
+        "title": "The Ultimate Full SQL Course - MySQL Tutorial For Beginners",
+        "publishedAt": "2023-01-05T23:00:03Z",
+        "duration": "PT2M6S",
+        "viewCount": "79870",
+        "likeCount": "1028",
+        "commentCount": "31"
+    },
+    {
+        "video_id": "aHZ0Pb9_uMY",
+        "title": "Introduction to SQL - How SQL Works? -  SQL Tutorial #1",
+        "publishedAt": "2023-01-05T23:00:01Z",
+        "duration": "PT6M57S",
+        "viewCount": "23641",
+        "likeCount": "600",
+        "commentCount": "27"
+    },
+    {
+        "video_id": "NTgejLheGeU",
+        "title": "SQL Tutorial for Beginners [Ultimate Full Course] - From Zero to HERO",
+        "publishedAt": "2023-01-05T09:53:48Z",
+        "duration": "PT4H4M26S",
+        "viewCount": "240187",
+        "likeCount": "7395",
+        "commentCount": "599"
+    },
+    {
+        "video_id": "KVyvEAt6ljQ",
+        "title": "Tableau Extract EXPLAINED - Why is Tableau GREAT for Big Data? - Tableau Tutorial #10",
+        "publishedAt": "2023-01-01T07:26:48Z",
+        "duration": "PT9M16S",
+        "viewCount": "2652",
+        "likeCount": "99",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "uDCJukJix8I",
+        "title": "TRY THESE 7 TIPS to Improve Tableau Performance (Calculations)",
+        "publishedAt": "2023-01-01T07:26:39Z",
+        "duration": "PT6M58S",
+        "viewCount": "2612",
+        "likeCount": "102",
+        "commentCount": "10"
+    },
+    {
+        "video_id": "dBTmyt83fb8",
+        "title": "How to Improve Tableau Performance with These 11 Filters Tips",
+        "publishedAt": "2023-01-01T07:26:37Z",
+        "duration": "PT16M49S",
+        "viewCount": "5179",
+        "likeCount": "174",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "lxMp0xrCB5A",
+        "title": "12 Top Tips to Improve Tableau Performance (DataSource)",
+        "publishedAt": "2023-01-01T07:26:34Z",
+        "duration": "PT11M16S",
+        "viewCount": "13823",
+        "likeCount": "385",
+        "commentCount": "17"
+    },
+    {
+        "video_id": "5R1b0wdAoAk",
+        "title": "Tableau File Types HYPER, TDS, TDSX, TWB, TWBX EXPLAINED - Tableau Tutorial #9",
+        "publishedAt": "2023-01-01T07:26:25Z",
+        "duration": "PT12M24S",
+        "viewCount": "7153",
+        "likeCount": "190",
+        "commentCount": "19"
+    },
+    {
+        "video_id": "qLhWJLkS_vE",
+        "title": "A Deep Dive into Tableau Relationships \"Noodles\" - Tableau Tutorial #8",
+        "publishedAt": "2023-01-01T07:26:16Z",
+        "duration": "PT21M49S",
+        "viewCount": "3499",
+        "likeCount": "116",
+        "commentCount": "9"
+    },
+    {
+        "video_id": "wuPFWk3yif4",
+        "title": "Tableau Relationships, Data Blending, Joins and Union - Tableau Tutorial #7",
+        "publishedAt": "2023-01-01T07:26:07Z",
+        "duration": "PT25M56S",
+        "viewCount": "14494",
+        "likeCount": "432",
+        "commentCount": "47"
+    },
+    {
+        "video_id": "3dtDbmXFJWs",
+        "title": "How to Connect Tableau to Database,Text, Excel,CSV,JSON, and PDF  - Tableau Tutorial #6",
+        "publishedAt": "2022-12-30T07:21:34Z",
+        "duration": "PT11M24S",
+        "viewCount": "2122",
+        "likeCount": "42",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "dTZoMZnIOGs",
+        "title": "Quick Guide to Tableau Interface for Beginners - Tableau Tutorial #5",
+        "publishedAt": "2022-12-29T07:47:52Z",
+        "duration": "PT13M35S",
+        "viewCount": "3389",
+        "likeCount": "58",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "-6pQIgHHqt0",
+        "title": "Download & Install Tableau Desktop - FREE 14 Days - Tableau Tutorial #4",
+        "publishedAt": "2022-12-28T18:01:38Z",
+        "duration": "PT6M14S",
+        "viewCount": "2875",
+        "likeCount": "28",
+        "commentCount": "2"
+    },
+    {
+        "video_id": "smbJ9Z3M4ww",
+        "title": "Download & Install Tableau Public - FREE - Tableau Tutorial #3",
+        "publishedAt": "2022-12-27T08:19:59Z",
+        "duration": "PT9M38S",
+        "viewCount": "2203",
+        "likeCount": "33",
+        "commentCount": "1"
+    },
+    {
+        "video_id": "hbHhJrAIV5o",
+        "title": "Tableau Desktop vs Public - What are the Differences? - Tableau Tutorial #2",
+        "publishedAt": "2022-12-27T06:57:17Z",
+        "duration": "PT13M16S",
+        "viewCount": "2355",
+        "likeCount": "67",
+        "commentCount": "6"
+    },
+    {
+        "video_id": "VjolpST0hA0",
+        "title": "Tableau Product Suite (14 Products) - Tableau Tutorial #1",
+        "publishedAt": "2022-12-26T10:33:09Z",
+        "duration": "PT13M2S",
+        "viewCount": "8892",
+        "likeCount": "101",
+        "commentCount": "18"
+    }
+]
