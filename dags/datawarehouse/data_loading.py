@@ -6,7 +6,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 
-def load_path() -> list[dict]:
+def load_data() -> list[dict]:
     """Load today's YouTube API data from a JSON file."""
     
     today = date.today()
